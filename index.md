@@ -1,39 +1,70 @@
-# Personal web - a test
+Josef Melcr, Ph.D. student at the group of [prof. Jungwirth](http://jungwirth.uochb.cas.cz/)
+at the Institute of Organic Chemistry and Biochemistry of CAS in Prague.
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jmelcr/jmelcr/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Projects](projects.html), 
+[About me](aboutme.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Publications
+	
+- Accurate Binding of Sodium and Calcium to a POPC Bilayer by Effective Inclusion of
+Electronic Polarization. Josef Melcr, Hector Martinez-Seara, Ricky Nencini, Jiri Kolafa, Pavel
+Jungwirth, and O.H. Samuli Ollila, The Journal of Physical Chemistry B, Just Accepted
+Manuscript (2018). DOI: 10.1021/acs.jpcb.7b12510 , 
+[link](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b12510)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Molecular electrometer and binding of cations to phospholipid bilayers. Andrea Catte,
+Mykhailo Girych, Matti Javanainen, Claire Loison, Josef Melcr, Markus S. Miettinen, Luca
+Monticelli, Jukka Määttä, Vasily S. Oganesyan, O. H. Samuli Ollila, Joona Tynkkynen and
+Sergey Vilov, Phys. Chem. Chem. Phys., 18, 32560. DOI: 10.1039/C6CP04883H
 
-```markdown
-Syntax highlighted code block
+- Transmembrane Potential Modeling: Comparison between Methods of Constant Electric Field
+and Ion Imbalance. Josef Melcr, Daniel Bonhenry. Štěpán Timr and Pavel Jungwirth, Journal of
+Chemical Theory and Computation, 12 (5), 2016. DOI: 10.1021/acs.jctc.5b01202
 
-# Header 1
-## Header 2
-### Header 3
+- Estimation of transition-metal empirical parameters for molecular mechanical force fields. Filip
+Šebesta, Vladislav Sláma, Josef Melcr, Zdeněk Futera and Jaroslav V Burda.Journal of
+chemical theory and computation, 12 (8), 2016. DOI: 10.1021/acs.jctc.6b00416
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Awards
 
-**Bold** and _Italic_ and `Code` text
+-   PRACE Tier-0 project award at Curie-HN supercomputer
+-   Juelich Supercomputing Centre project award at JUROPA and JURECA supercomputers
+-   Best poster award at CECAM Conference "Understanding function of proteins in membrane by atomistic and multiscale simulations", Lugano, Switzerland, November 2015
 
-[Link](url) and ![Image](src)
+
+
+
+
+<HR>
+
+
+
+
+
+# Contact
+	
+```
+melcr@uochb.cas.cz
++420 220 410 316
+ResearcherId: G-8562-2014
+ORCID: 0000-0003-4729-3990
+Facebook: pepa.melcr
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Google scholar](https://scholar.google.cz/citations?hl=en&user=Nkoi1CoAAAAJ), 
+[Mendeley](https://www.mendeley.com/profiles/josef-melcr/), 
+[LinkedIn](https://cz.linkedin.com/in/jmelcr), 
+[GitHub](https://github.com/jmelcr)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jmelcr/jmelcr/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### WORK ADDRESS
+Currently employed at the Institute of Organic Chemistry and Biochemistry CAS, v.v.i., Czech Republic [(contact)](http://www.uochb.cz/web/structure/571.html).
+```
+Institute of Organic Chemistry and Biochemistry
+Flemingovo náměstí 542/2
+166 10 Praha 6
+Czech Republic
+```
