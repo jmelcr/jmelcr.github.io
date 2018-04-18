@@ -4,32 +4,37 @@ permalink: aboutme.html
 ---
 
 # About me
+
+Discovering new paths and directions 
+is one of the main driving forces in my research. 
+I especially like introducing new perspectives, new points of view. 
+Looking at a known or completely new subject from different angles 
+helps me to stay on top of things - beacuse -
+being on top of things is an attribute I find in many great scientists.
 	
 ## Research interests:
 
--   Membrane fusion
+-   Merging experiments and theory together
+-   Biological membranes, model membranes and membrane models, membrane fusion, membrane proteins
 -   Polarization and electronic continuum correction (ECC)
--   Transmembrane potential of living cells, especially neurons
--   membrane protein interaction
--   free energy methods, Markov state modeling and neural networks
+-   Transmembrane potential of living cells, probes of neural activity
+-   Markov state modeling, Free energy methods, hybrid approaches and coarse graining
+-   Machine learning and deep learning for biomolecules
+-   Open collaboration research
 
-## Knowledge and methods
-
--   Gromacs, NAMD, VMD, openMM
--   cp2k, Gaussian
--   Replica exchange, dAFED, REUS, MetaD
--   Markov state modeling, dTRAM and WHAM
--   openMP, openMPI
-
-	
-## Experience
+## Other experiences
 
 -   HPC and massively parallel computing
 -   GPU computing
--   coding (Fortran, python, bash, Git)
--   soft matter and biological simulation
 -   ab-initio, QM/MM and BO-dynamical calculations
 -   chemical and biological laboratory
+-   technical skills:
+    -   coding (Fortran, python, BASH, Git)
+    -   Gromacs, NAMD, openMM, VMD, MDAnalysis, mdtraj, PluMeD
+    -   MSM, Replica exchange, dAFED, REUS, MetaD
+    -   cp2k, Gaussian
+
+	
 
 ## Education
 

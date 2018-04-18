@@ -28,7 +28,6 @@ We applied an implicit mean-field model of polarizability
 (Electronic Continuum Correction, ECC) 
 on top of Lipid14 model yielding [ECC-POPC](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b12510), 
 a new lipid model that accounts for electronic polarization and accurately describes interactions with ions.
-
 Current development is held in GitHub repository [ecc_lipids](https://github.com/jmelcr/ecc_lipids).
 ECC-POPC is already [published](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b12510) 
 and can be also reached in a separate 
@@ -37,7 +36,7 @@ resp [my fork](https://github.com/jmelcr/NMRlipids_VI-NewIonModel).
 
 - [Past projects](projects.html) 
 
-- [More about me](aboutme.html)
+- [More about me, experience](aboutme.html)
 
 
 
@@ -50,21 +49,20 @@ resp [my fork](https://github.com/jmelcr/NMRlipids_VI-NewIonModel).
 - Accurate Binding of Sodium and Calcium to a POPC Bilayer by Effective Inclusion of
 Electronic Polarization. Josef Melcr, Hector Martinez-Seara, Ricky Nencini, Jiri Kolafa, Pavel
 Jungwirth, and O.H. Samuli Ollila, The Journal of Physical Chemistry B, Just Accepted
-Manuscript (2018). DOI: 10.1021/acs.jpcb.7b12510 , 
-[link](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b12510)
+Manuscript (2018). DOI: [10.1021/acs.jpcb.7b12510](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b12510)
 
 - Molecular electrometer and binding of cations to phospholipid bilayers. Andrea Catte,
 Mykhailo Girych, Matti Javanainen, Claire Loison, Josef Melcr, Markus S. Miettinen, Luca
 Monticelli, Jukka Määttä, Vasily S. Oganesyan, O. H. Samuli Ollila, Joona Tynkkynen and
-Sergey Vilov, Phys. Chem. Chem. Phys., 18, 32560. DOI: 10.1039/C6CP04883H
+Sergey Vilov, Phys. Chem. Chem. Phys., 18, 32560. DOI: [10.1039/C6CP04883H](https://pubs.rsc.org/en/content/articlelanding/2016/cp/c6cp04883h#!)
 
 - Transmembrane Potential Modeling: Comparison between Methods of Constant Electric Field
 and Ion Imbalance. Josef Melcr, Daniel Bonhenry. Štěpán Timr and Pavel Jungwirth, Journal of
-Chemical Theory and Computation, 12 (5), 2016. DOI: 10.1021/acs.jctc.5b01202
+Chemical Theory and Computation, 12 (5), 2016. DOI: DOI: [10.1021/acs.jctc.5b01202](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01202)
 
 - Estimation of transition-metal empirical parameters for molecular mechanical force fields. Filip
 Šebesta, Vladislav Sláma, Josef Melcr, Zdeněk Futera and Jaroslav V Burda.Journal of
-chemical theory and computation, 12 (8), 2016. DOI: 10.1021/acs.jctc.6b00416
+chemical theory and computation, 12 (8), 2016. DOI: [10.1021/acs.jctc.6b00416](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00416)
 
 
 ## Awards
