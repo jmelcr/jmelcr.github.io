@@ -54,7 +54,7 @@ Manuscript (2018). DOI: [10.1021/acs.jpcb.7b12510](https://pubs.acs.org/doi/10.1
 - Molecular electrometer and binding of cations to phospholipid bilayers. Andrea Catte,
 Mykhailo Girych, Matti Javanainen, Claire Loison, Josef Melcr, Markus S. Miettinen, Luca
 Monticelli, Jukka Määttä, Vasily S. Oganesyan, O. H. Samuli Ollila, Joona Tynkkynen and
-Sergey Vilov, Phys. Chem. Chem. Phys., 18, 32560. DOI: [10.1039/C6CP04883H](https://pubs.rsc.org/en/content/articlelanding/2016/cp/c6cp04883h#!)
+Sergey Vilov, Phys. Chem. Chem. Phys., 18, 32560, 2017. DOI: [10.1039/C6CP04883H](https://pubs.rsc.org/en/content/articlelanding/2016/cp/c6cp04883h#!)
 
 - Transmembrane Potential Modeling: Comparison between Methods of Constant Electric Field
 and Ion Imbalance. Josef Melcr, Daniel Bonhenry. Štěpán Timr and Pavel Jungwirth, Journal of
