@@ -1,5 +1,6 @@
 ---
 title: Projects
+layout: page
 permalink: projects
 ---
 
@@ -10,14 +11,27 @@ permalink: projects
 Sodium and Calcium are highly biologically relevant cations. Current (2017) classical MD lipid models, however, overestimate binding of cations even to neutral phosphocholine bilayers. 
 In this project, we identified electronic polarization as the missing key phenomenon responsible for the artifacts. 
 We applied an implicit mean-field model of polarizability 
-(Electronic Continuum Correction, ECC) 
-on top of Lipid14 model yielding [ECC-POPC](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b12510), 
+([Electronic Continuum Correction, ECC](blog/ECC-post)) 
+on top of [Lipid14](https://pubs.acs.org/doi/abs/10.1021/ct4010307) model 
+yielding [ECC-POPC](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b12510), 
 a new lipid model that accounts for electronic polarization and accurately describes interactions with ions.
-Current development is held in GitHub repository [ecc_lipids](https://github.com/jmelcr/ecc_lipids).
 ECC-POPC is already [published](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b12510) 
 and can be also reached in a separate 
 [GitHub repository](https://github.com/ohsOllila/NMRlipids_VI-NewIonModel)
 resp [my fork](https://github.com/jmelcr/NMRlipids_VI-NewIonModel). 
+Current development of ECC-lipids is held in the GitHub repository [ecc_lipids](https://github.com/jmelcr/ecc_lipids).
+
+
+- **Determination of protein sctructure with optical polarization microscopy**
+Polarization microscopy allows sensitive observations of changes in protein conformation in living cells and organisms ([ref.](http://dx.doi.org/10.1021/jp4067026)). 
+For fluorescent proteins with a resolved structure, 
+it is possible to link the polarization microscopy measurements and 
+[transition dipole moment](http://www.nh.cas.cz/people/lazar/celler/tdm.php) orientations
+to protein strucutre. 
+Quantum mechanical calculations of absorption properties and 
+molecular dynamics simulations
+are used as a guide and an independent verifying instrument for such a technique. 
+This project is run in a close collaboration with the group of [Josef Lazar](https://www.uochb.cz/web/structure/1408.html?lang=en). 
 
 
 
@@ -39,9 +53,9 @@ especially neural activity. Such probes are intended to work with accurate polar
 which can detect their structural changes.
 Development of fluorescent molecular probes of cell membrane voltage promises to deliver the ability
 of observing the electrical activity of neuronal assemblies using an optical microscope. 
+This project is run in a close collaboration with the group of [Josef Lazar](https://www.uochb.cz/web/structure/1408.html?lang=en). 
 
 -  Development of classical force field parameters for organometallic compounds compatible with Amber force field.
-Picture
 
 -  Enzymatic activity of EF-Tu, a protein factor that takes part in the process of translation on the Ribozome.
 

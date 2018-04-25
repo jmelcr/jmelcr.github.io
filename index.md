@@ -8,7 +8,7 @@ permalink: index
 [//]: # ![photo]({{ "https://avatars2.githubusercontent.com/u/12782348?s=460&v=4" | absolute_url }})
 <img src="https://avatars2.githubusercontent.com/u/12782348?s=460&v=4" style="width: 200px;" class="inline-left"/>
 Josef Melcr, Ph.D. student at the group of [prof. Jungwirth](http://jungwirth.uochb.cas.cz/)
-at the Institute of Organic Chemistry and Biochemistry of CAS in Prague.
+at the Institute of Organic Chemistry and Biochemistry of the CAS in Prague.
 
 ### Links
 [Google scholar](https://scholar.google.cz/citations?hl=en&user=Nkoi1CoAAAAJ), 
@@ -29,7 +29,7 @@ Manuscript (2018). DOI: [10.1021/acs.jpcb.7b12510](https://pubs.acs.org/doi/10.1
 - Molecular electrometer and binding of cations to phospholipid bilayers. Andrea Catte,
 Mykhailo Girych, Matti Javanainen, Claire Loison, Josef Melcr, Markus S. Miettinen, Luca
 Monticelli, Jukka Määttä, Vasily S. Oganesyan, O. H. Samuli Ollila, Joona Tynkkynen and
-Sergey Vilov, Phys. Chem. Chem. Phys., 18, 32560, 2017. DOI: [10.1039/C6CP04883H](https://pubs.rsc.org/en/content/articlelanding/2016/cp/c6cp04883h#!)
+Sergey Vilov, Phys. Chem. Chem. Phys., 18, 32560, 2016. DOI: [10.1039/C6CP04883H](https://pubs.rsc.org/en/content/articlelanding/2016/cp/c6cp04883h#!)
 
 - Transmembrane Potential Modeling: Comparison between Methods of Constant Electric Field
 and Ion Imbalance. Josef Melcr, Daniel Bonhenry. Štěpán Timr and Pavel Jungwirth, Journal of
@@ -64,7 +64,7 @@ Facebook: pepa.melcr
 
 
 ### WORK ADDRESS
-Currently employed at the Institute of Organic Chemistry and Biochemistry CAS, v.v.i., Czech Republic [(contact)](http://www.uochb.cz/web/structure/571.html).
+Currently employed at the Institute of Organic Chemistry and Biochemistry of the CAS, Czech Republic [(contact)](http://www.uochb.cz/web/structure/571.html).
 ```
 Institute of Organic Chemistry and Biochemistry
 Flemingovo náměstí 542/2

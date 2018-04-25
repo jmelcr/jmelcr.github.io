@@ -1,8 +1,8 @@
 # Site title
-title: Josef Melcr | personal web pages
+title: Josef Melcr | web page
 
 # Tagline below the site title on post list pages
-tagline: personal web pages
+tagline: personal web page
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description:
@@ -14,7 +14,7 @@ url: "https://jmelcr.github.io"
 baseurl: ""
 
 # The site cover image on the home page
-image: /images/site-image.jpg
+image: 
 
 # The shortname for your Disqus site to enable comments
 disqus_shortname:
@@ -37,10 +37,10 @@ nav:
 
 # The links in the site footer
 footer_links:
-  - title: "RSS"
-    url:   "/feed.xml"
   - title: "GitHub"
     url:   "https://github.com/jmelcr"
+#  - title: "RSS"
+#    url:   "/feed.xml"
 
 
 # Author information
