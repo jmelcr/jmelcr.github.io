@@ -5,7 +5,7 @@ author: jmelcr
 permalink: blog/ECC-post
 ---
 
-When I use term *polarizability*, 
+When I use the term *polarizability*, 
 people often assume I mean *explicit polarizability*,
 which can be modeled for example using 
 polarizable dipoles with Thole damping or
@@ -17,13 +17,15 @@ which we term Electronic Continuum Correction (ECC)
 and a [follow-up paper](http://dx.doi.org/10.1021/ct9005807)).
 
 ECC is an implicit model of electronic polarizability,
-in which a system of individual polarizable particles is represented
-with a fixed-charge equivalent system, 
-which includes the effects of electronic polarization in a mean-field way.
+in which a system of polarizable particles is represented
+with an equivalent system of particles with fixed charges
+including the effects of electronic polarization *implicitly* in a mean-field way.
 It is sometimes incorrectly percieved as being represented with a *non-polarizable* system, 
 but the opposite is true - it only takes the same form as classical non-polarizable empirical force fields. 
-In practice, we also often call ECC the *charge-scaling* approach,
-however, that is only a practical realization of
+The relation between the original and the new set of charges 
+is almost trivial - mere linear scaling with a certain factor smaller than one does the job. 
+That is why we also often call ECC as the *charge-scaling* approach.
+However, that is only a practical realization of
 embedding all atoms into a dielectric continuum 
 with a high-frequency dielectric constant of the electrons
 (scaling charges with the inverse square root of the dielectric constant provides the same effect).
