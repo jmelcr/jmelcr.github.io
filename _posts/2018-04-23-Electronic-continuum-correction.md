@@ -33,7 +33,7 @@ It is important to note that the value of the
 high frequency dielectric constant  
 is around 2 for almost any biologically relevant environment.
 This means that even interfaces like biological membranes do not contain discontinuities of the electronic continuum. 
-Given that the  high frequency dielectric constant of water is 1.78$ (i.e., the square of the refraction index), 
+Given that the  high frequency dielectric constant of water is 1.78 (i.e., the square of the refraction index), 
 the scaling factor for ions in water is roughly 0.75. 
 
 ECC significantly improves the accuracy of simulations of solvated [ions](https://aip.scitation.org/doi/abs/10.1063/1.5006779), 
