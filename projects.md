@@ -7,6 +7,11 @@ permalink: projects
 
 # Current projects
 
+- **MeMBrane project: Enhancing industrial bioprocesses in yeast and bacteria via membrane optimization**
+[MeMBrane](https://www.membrane.org.uk/) project 
+aims at improving and creating possible new industries using cell factories and biomass. 
+Our role in the consortium is to provide molecular-level understanding of the processes at cellular membranes. 
+
 - **ECC-lipids - implicitly polarizable lipid models showing accurate interactions with ionic molecules**
 Sodium and Calcium are highly biologically relevant cations. Current (2017) classical MD lipid models, however, overestimate binding of cations even to neutral phosphocholine bilayers. 
 In this project, we identified electronic polarization as the missing key phenomenon responsible for the artifacts. 

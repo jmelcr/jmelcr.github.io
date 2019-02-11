@@ -47,8 +47,8 @@ chemical theory and computation, 12 (8), 2016. DOI: [10.1021/acs.jctc.6b00416](h
 # Contact
 	
 ```
-melcr@uochb.cas.cz
-+420 220 410 316
+j.melcr@rug.nl
++31 50 36 34323
 ResearcherId: G-8562-2014
 ORCID: 0000-0003-4729-3990
 Facebook: pepa.melcr

@@ -43,7 +43,8 @@ being on top of things is an attribute I find in many great scientists.
 
 ## Education
 
--   (2013-2018) Doctoral student in the group of prof. Jungwirth at the Institute of Organic Chemistry and Biochemistry, Academy of Sciences of the Czech Republic
+-   (2013-2018) PhD student in the group of [prof. Jungwirth](http://jungwirth.uochb.cas.cz/) 
+at the Institute of Organic Chemistry and Biochemistry of the Czech Academy of Sciences in Prague.
 -   (2008-2013) Masters and Bachelors degree at Charles University in Prague
 
 
