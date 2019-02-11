@@ -58,7 +58,9 @@ the scaling factor for ions in water is roughly 0.75.
 
 ECC significantly improves the accuracy of simulations of solvated [ions](https://aip.scitation.org/doi/abs/10.1063/1.5006779) 
 (freely available [manuscript](http://jungwirth.uochb.cas.cz/assets/papers/paper294.pdf)), 
-and it was recently shown by our group that ECC is crucial also for [phospholipids](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b12510)
+and it was recently shown by our group that ECC is crucial also for 
+[proteins](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b12097) and 
+[phospholipids](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b12510)
 (also on [GitHub](https://github.com/jmelcr/NMRlipids_VI-NewIonModel/blob/master/Manuscript/manuscript.pdf)).
 The research on the latter was largely driven by the [NMRlipids](http://nmrlipids.blogspot.com/) community,
 which has found that all current classical force fields 
