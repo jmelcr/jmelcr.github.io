@@ -51,16 +51,16 @@ j.melcr@rug.nl
 +31 50 36 34323
 ResearcherId: G-8562-2014
 ORCID: 0000-0003-4729-3990
-Facebook: pepa.melcr
 ```
 
 
 ### WORK ADDRESS
-Currently employed at the Institute of Organic Chemistry and Biochemistry of the CAS, Czech Republic [(contact)](http://www.uochb.cz/web/structure/571.html).
 ```
-Institute of Organic Chemistry and Biochemistry
-Flemingovo náměstí 542/2
-166 10 Praha 6
-Czech Republic
+Gron Inst Biomolecular Sciences & Biotechnology
+Faculty of Science and Engineering
+Molecular Dynamics 
+Nijenborgh 7
+9747 AG Groningen
+The Netherlands
 ```
 
