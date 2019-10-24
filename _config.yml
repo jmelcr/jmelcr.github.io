@@ -1,5 +1,5 @@
 # Site title
-title: Josef Melcr | web page
+title: Josef Melcr | computational biophysicist
 
 # Tagline below the site title on post list pages
 tagline: personal web page
@@ -27,12 +27,16 @@ google_analytics_tracking_id:
 nav:
   - title: "Home"
     url:   "/"
-  - title: "About me"
-    url:   "/aboutme"
+  - title: "Publications"
+    url:   "/publications"
   - title: "Projects"
     url:   "/projects"
-  - title: "Blog"
+  - title: "ECC-lipids"
+    url:   "https://jmelcr.github.io/ecc_lipids/"
+  - title: "News"
     url:   "/blog"
+  - title: "About me"
+    url:   "/aboutme"
 
 
 # The links in the site footer
@@ -47,6 +51,8 @@ footer_links:
     url:   "https://www.mendeley.com/profiles/josef-melcr/"
   - title: "LinkedIn"
     url:   "https://cz.linkedin.com/in/jmelcr"
+  - title: "Twitter"
+    url:   "https://twitter.com/jmelcr"
 #  - title: "RSS"
 #    url:   "/feed.xml"
 

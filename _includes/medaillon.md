@@ -8,4 +8,5 @@ at the [University of Groningen](https://www.rug.nl/),
 [Google scholar](https://scholar.google.cz/citations?hl=en&user=Nkoi1CoAAAAJ), 
 [Mendeley](https://www.mendeley.com/profiles/josef-melcr/), 
 [GitHub](https://github.com/jmelcr),
-[LinkedIn](https://cz.linkedin.com/in/jmelcr)
+[LinkedIn](https://cz.linkedin.com/in/jmelcr), 
+[Twitter](https://twitter.com/jmelcr)

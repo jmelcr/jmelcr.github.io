@@ -4,16 +4,11 @@ layout: page
 permalink: aboutme
 ---
 
+**"Throw away golden hammers and stay on top of things."**
+
 {% include medaillon.md %}
 
 <HR>
-
-Discovering new paths and directions 
-is one of the main driving forces in my research. 
-I especially like introducing fresh perspectives, new points of view. 
-Approaching projects from different angles 
-helps me to stay on top of things - because -
-being on top of things is an attribute I find in many great scientists.
 	
 ## Research interests:
 

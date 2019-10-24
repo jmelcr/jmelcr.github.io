@@ -24,7 +24,8 @@ ECC-POPC is already [published](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b1251
 and can be also reached in a separate 
 [GitHub repository](https://github.com/ohsOllila/NMRlipids_VI-NewIonModel)
 resp [my fork](https://github.com/jmelcr/NMRlipids_VI-NewIonModel). 
-Current development of ECC-lipids is held in the GitHub repository [ecc_lipids](https://github.com/jmelcr/ecc_lipids).
+Current development of ECC-lipids is held in the [GitHub repository ecc_lipids](https://github.com/jmelcr/ecc_lipids)
+with a separate [web page with documentation](https://jmelcr.github.io/ecc_lipids/).
 
 
 - **Determination of protein sctructure with optical polarization microscopy**
