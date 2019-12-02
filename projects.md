@@ -7,6 +7,9 @@ permalink: projects
 
 # Current projects
 
+- **Martini 3**
+Development of the new Martini 3 lipids. 
+
 - **MeMBrane project: Enhancing industrial bioprocesses in yeast and bacteria via membrane optimization**
 [MeMBrane](https://www.membrane.org.uk/) project 
 aims at improving and creating possible new industries using cell factories and biomass. 

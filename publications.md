@@ -8,19 +8,25 @@ permalink: publications
 
 - Accurate biomolecular simulations account for electronic polarization.
 Josef Melcr and Jean-Philip Piquemal,
-[arXiv preprint](https://arxiv.org/abs/1909.03732), Sep 2019. 
+Frontiers in Molecular Biosciences, October 2019.
+DOI: [10.3389/fmolb.2019.00143 ](https://www.frontiersin.org/articles/10.3389/fmolb.2019.00143/abstract), 
+[arXiv preprint](https://arxiv.org/abs/1909.03732). 
 
+- Improved Cation Binding to Lipid Bilayer with Negatively Charged POPS 
+by Effective Inclusion of Electronic Polarization. 
+Melcr, J., Mendes Ferreira, T., Jungwirth, P. & Ollila, O. H. S.,
+Journal of Chemical Theory and Computation, November 2019.
+DOI: [10.1021/acs.jctc.9b00824](https://pubs.acs.org/doi/10.1021/acs.jctc.9b00824)
 
 - Headgroup Structure and Cation Binding in Phosphatidylserine Lipid Bilayers.
 Hanne S. Antila, Pavel Buslaev, Fernando Favela-Rosales, 
 Tiago Mendes Ferreira, Ivan Gushchin, Matti Javanainen, Batuhan Kav, 
 Jesper J. Madsen, Josef Melcr, Markus Sakari Miettinen, 
 Jukka Määttä, Ricky Nencini, O.H. Samuli Ollila, Thomas J. Piggot, 
-The Journal of Physical Chemistry B, October 2019. 
+The Journal of Physical Chemistry B, 123(43), 9066-9079, 2019. 
 DOI: [10.1021/acs.jpcb.9b06091](https://doi.org/10.1021/acs.jpcb.9b06091), 
 preprint at [GitHub](https://github.com/NMRLipids/NMRlipidsIVotherHGs/blob/master/Manuscript/manuscriptPS.pdf), 
 part of [NMRlipids project](http://nmrlipids.blogspot.com/). 
-
 	
 - Accurate Binding of Sodium and Calcium to a POPC Bilayer by Effective Inclusion of Electronic Polarization. 
 Josef Melcr, Hector Martinez-Seara, Ricky Nencini, Jiri Kolafa, Pavel Jungwirth, and O.H. Samuli Ollila, 
