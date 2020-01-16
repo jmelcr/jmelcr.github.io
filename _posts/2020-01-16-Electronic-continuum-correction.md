@@ -5,36 +5,42 @@ author: jmelcr
 permalink: blog/ECC-post
 ---
 
+*(PhD student, thinking...)*
+
 Polarizable or non-polarizable. 
 
 Do I need it for my simulation? 
 Are the effects of the electronic polarization that improtant? 
 
-*May be.*
+*Maybe.*
 
-But is it worth the extra computational effort, 
-the order of magnitude slowdown,
-when it seems that researchers usually get away without it?
+But is it worth the usual slowdown,
+when it seems that other researchers usually get away without it?
 
-*Look, it does not have to be that dramatic...
-I will show you that is possible to get 
-a large amount of the effect of electronic polarization 
-very cheaply - at zero additional cost -
-using the Electronic continuum correction.*
+*Maybe that with this ECC, 
+the slowness is not that dramatic...*
+
+*(student reading a [paper](https://www.frontiersin.org/articles/10.3389/fmolb.2019.00143/full))*
+*...  the effects of electronic polarization can also be included 
+at zero additional computational cost compared to standard fixed-charge force fields 
+using the electronic continuum correction, ...*
+
+Let's give it a try!
 
 <HR>
 
-When I use the term *polarizability*, 
-it is often automatically assumed to mean *explicit polarizability*. 
-No one is to be blamed for that,
+The term *polarizability*, 
+is often automatically assumed to mean *explicit polarizability*. 
+No wonders -
 using explicit polarizable dipoles with Thole damping or
 [Drude particles](https://en.wikipedia.org/wiki/Drude_particle)
 is a very common way to account for electronic polarization. 
-However, there is also a relatively recently developed theory,
-which provides an *implicit* model of polarizability,
-which we term Electronic Continuum Correction (ECC)
+In addition to those methods, however, 
+there is also a relatively recently developed theory,
+which provides an *implicit* model of polarizability
+termed [Electronic Continuum Correction (ECC)](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b02652)
 (references: [MD in electronic continuum (MDEC)](http://scitation.aip.org/content/aip/journal/jcp/130/8/10.1063/1.3060164) 
-and a [follow-up paper](http://dx.doi.org/10.1021/ct9005807)).
+and [another paper](http://dx.doi.org/10.1021/ct9005807)).
 
 ECC is an implicit model of electronic polarizability,
 in which a system of polarizable particles is represented
@@ -44,7 +50,7 @@ It is sometimes incorrectly percieved as being represented with a *non-polarizab
 but the opposite is true - it only takes the same form as classical non-polarizable force fields. 
 The relation between the *original* and the *new* set of charges 
 is almost trivial - mere linear scaling with a certain factor smaller than one provides the effect. 
-That is also the reason why ECC is often referred as the *charge-scaling* approach.
+That is also the reason why ECC is often referred as [the *charge-scaling* approach](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b02652).
 However, that is only a practical realization of
 embedding all atoms into a dielectric continuum 
 with a high-frequency dielectric constant of the electrons
@@ -60,22 +66,22 @@ ECC significantly improves the accuracy of simulations of solvated [ions](https:
 (freely available [manuscript](http://jungwirth.uochb.cas.cz/assets/papers/paper294.pdf)), 
 and it was recently shown by our group that ECC is crucial also for 
 [proteins](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b12097) and 
-[phospholipids](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b12510)
-(also on [GitHub](https://github.com/jmelcr/NMRlipids_VI-NewIonModel/blob/master/Manuscript/manuscript.pdf)).
+[phospholipids](https://jmelcr.github.io/ecc_lipids/). 
 The research on the latter was largely driven by the [NMRlipids](http://nmrlipids.blogspot.com/) community,
 which has found that all current classical force fields 
 overestimate the affinity of cations to PC lipid bilayers 
-in the recent [publication](https://pubs.rsc.org/en/Content/ArticleLanding/2016/CP/C6CP04883H#!divAbstract) 
+in the recent [publication](https://pubs.rsc.org/en/Content/ArticleLanding/2016/CP/C6CP04883H#!) 
 (also on [GitHub](https://github.com/NMRLipids/lipid_ionINTERACTION/blob/master/Manuscript/LIPIDionINTERACT.pdf)).
-The effects on the charged lipids are even more severe
-as is found in the ongoing [NMRlipids project IV](https://github.com/NMRLipids/NMRlipidsIVotherHGs/blob/master/Manuscript/manuscriptPS.pdf),
-where mixed PC:PS bilayers are studied. 
-The agreement with experiments in that study is, again, substantially improved
-after including the effects of electronic polarization,
-as I demonstrate in my [current research](https://github.com/jmelcr/ecc_lipids) 
-on the interaction of cations with negatively charged membranes.
+The effects on the charged lipids (e.g. POPS) are even more severe
+as was found in the [NMRlipids project IV](https://github.com/NMRLipids/NMRlipidsIVotherHGs/blob/master/Manuscript/manuscriptPS.pdf) published [here](https://doi.org/10.1021/acs.jpcb.9b06091). 
+The agreement with experiments in that study is, again, 
+[substantially improved after including the effects of electronic polarization](https://pubs.acs.org/doi/10.1021/acs.jctc.9b00824). 
 
-Simulations with *explicitly polarizable* models are generally considered to be costly for any practical use in biophysics. 
-The ECC-models, however, are computatinally as cheap as any other fixed-charged model,
-yet they are polarizable - *implicitly polarizable*. 
+Further developments and improvement of ECC lipid force fields takes place in 
+[ECC-lipids repository](https://github.com/jmelcr/ecc_lipids). 
+
+The electronic polarization [needs to be included for accurate simulations of biomolecules](https://www.frontiersin.org/articles/10.3389/fmolb.2019.00143/full)). 
+The "ECC-models" offer an inexpensive solution, 
+which is computatinally even as cheap as any other fixed-charged model,
+yet it is polarizable - *implicitly polarizable*. 
 
