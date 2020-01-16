@@ -7,13 +7,14 @@ permalink: projects
 
 # Current projects
 
-- **Martini 3**
+- **Martini 3:**
 Development of the new Martini 3 lipids. 
 
 - **MeMBrane project: Enhancing industrial bioprocesses in yeast and bacteria via membrane optimization**
-[MeMBrane](https://www.membrane.org.uk/) project 
+[MeMBrane project](https://www.membrane.org.uk/) 
 aims at improving and creating possible new industries using cell factories and biomass. 
-Our role in the consortium is to provide molecular-level understanding of the processes at cellular membranes. 
+Our role in the consortium is to provide molecular-level understanding of the processes at cellular membranes
+and assist in guiding the laboratory evolution of the engineered microbes. 
 
 - **ECC-lipids - implicitly polarizable lipid models showing accurate interactions with ionic molecules**
 Sodium and Calcium are highly biologically relevant cations. Current (2017) classical MD lipid models, however, overestimate binding of cations even to neutral phosphocholine bilayers. 
