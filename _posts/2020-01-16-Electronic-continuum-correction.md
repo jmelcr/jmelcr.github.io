@@ -46,16 +46,13 @@ ECC is an implicit model of electronic polarizability,
 in which a system of polarizable particles is represented
 with an equivalent system of particles with fixed charges
 including the effects of electronic polarization *implicitly* in a mean-field way.
-It is sometimes incorrectly percieved as being represented with a *non-polarizable* system, 
-but the opposite is true - it only takes the same form as classical non-polarizable force fields. 
+It is often incorrectly percieved as a *non-polarizable* system again, 
+but the opposite is true - it only takes the same form as classical non-polarizable force fields
+with the effects of the electronic polarization implicitly included in the modified electrostatic interactions. 
 The relation between the *original* and the *new* set of charges 
 is almost trivial - mere linear scaling with a certain factor smaller than one provides the effect. 
 That is also the reason why ECC is often referred as [the *charge-scaling* approach](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b02652).
-However, that is only a practical realization of
-embedding all atoms into a dielectric continuum 
-with a high-frequency dielectric constant of the electrons
-(hint: scaling charges with the inverse square root of the dielectric constant provides the same effect).
-It is important to note that the value of the 
+For ECC, it is important to note that the value of the 
 high frequency dielectric constant  
 is around 2 for almost any biologically relevant environment.
 This means that even interfaces like biological membranes do not contain discontinuities of the electronic continuum. 
@@ -78,7 +75,7 @@ The agreement with experiments in that study is, again,
 [substantially improved after including the effects of electronic polarization](https://pubs.acs.org/doi/10.1021/acs.jctc.9b00824). 
 
 Further developments and improvement of ECC lipid force fields takes place in 
-[ECC-lipids repository](https://github.com/jmelcr/ecc_lipids). 
+[ECC-lipids repository](https://jmelcr.github.io/ecc_lipids/). 
 
 The electronic polarization [needs to be included for accurate simulations of biomolecules](https://www.frontiersin.org/articles/10.3389/fmolb.2019.00143/full)). 
 The "ECC-models" offer an inexpensive solution, 
