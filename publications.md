@@ -6,6 +6,11 @@ permalink: publications
 
 # Publications
 
+- Dual Resolution Membrane Simulations Using Virtual Sites. 
+Liu, Y., De Vries, A. H., Barnoud, J., Pezeshkian, W., Melcr, J., and Marrink, S. J. 
+J. Phys. Chem. B 124, 2020.
+DOI: [10.1021/acs.jpcb.0c01842](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.0c01842)
+
 - Accurate biomolecular simulations account for electronic polarization.
 Josef Melcr and Jean-Philip Piquemal,
 Frontiers in Molecular Biosciences, 4, 2019.
@@ -46,7 +51,8 @@ part of [NMRlipids project](http://nmrlipids.blogspot.com/).
 
 - Transmembrane Potential Modeling: Comparison between Methods of Constant Electric Field
 and Ion Imbalance. Josef Melcr, Daniel Bonhenry. Štěpán Timr and Pavel Jungwirth, Journal of
-Chemical Theory and Computation, 12 (5), 2016. DOI: DOI: [10.1021/acs.jctc.5b01202](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01202)
+Chemical Theory and Computation, 12 (5), 2016. 
+DOI: [10.1021/acs.jctc.5b01202](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01202)
 
 - Estimation of transition-metal empirical parameters for molecular mechanical force fields. 
 Filip Šebesta, Vladislav Sláma, Josef Melcr, Zdeněk Futera and Jaroslav V Burda. 
