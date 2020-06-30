@@ -7,8 +7,8 @@ permalink: publications
 # Publications
 
 - Dual Resolution Membrane Simulations Using Virtual Sites. 
-Liu, Y., De Vries, A. H., Barnoud, J., Pezeshkian, W., Melcr, J., and Marrink, S. J. 
-J. Phys. Chem. B 124, 2020.
+Liu, Y., De Vries, A. H., Barnoud, J., Pezeshkian, W., Melcr, J., and Marrink, S. J., 
+The Journal of Physical Chemistry B, 124, 2020.
 DOI: [10.1021/acs.jpcb.0c01842](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.0c01842)
 
 - Accurate biomolecular simulations account for electronic polarization.
