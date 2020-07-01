@@ -25,14 +25,15 @@ permalink: aboutme
 
 -   HPC and massively parallel computing
 -   GPU computing
--   article peer review
+-   cloud computing in research (K8S, Docker, [ResOps](https://tsi-ccdoc.readthedocs.io/en/external/ResOps/2019/Agenda-2019.html))
 -   ab-initio, QM/MM and BO-dynamical calculations
--   chemical and biological laboratory
+-   chemical and biological laboratory experiments
 -   technical skills:
     -   coding (Fortran, python, BASH, Git)
     -   Gromacs, NAMD, openMM, VMD, MDAnalysis, mdtraj, PluMeD
     -   MSM, Replica exchange, dAFED, REUS, MetaD
     -   cp2k, Gaussian
+-   peer review of scientific articles
 
 	
 
@@ -41,5 +42,3 @@ permalink: aboutme
 -   (2013-2018) PhD student in the group of [prof. Jungwirth](http://jungwirth.uochb.cas.cz/) 
 at the Institute of Organic Chemistry and Biochemistry of the Czech Academy of Sciences in Prague.
 -   (2008-2013) Masters and Bachelors degree at Charles University in Prague
-
-
