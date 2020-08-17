@@ -27,8 +27,6 @@ google_analytics_tracking_id:
 nav:
   - title: "Home"
     url:   "/"
-  - title: "Publications"
-    url:   "/publications"
   - title: "Projects"
     url:   "/projects"
   - title: "ECC-lipids"
@@ -37,6 +35,8 @@ nav:
     url:   "/blog"
   - title: "About me"
     url:   "/aboutme"
+  - title: "Publications"
+    url:   "/publications"
 
 
 # The links in the site footer
