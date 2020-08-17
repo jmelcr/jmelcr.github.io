@@ -4,7 +4,18 @@ layout: page
 permalink: aboutme
 ---
 
-**"Throw away golden hammers and stay on top of things."**
+**"Do what you think is right, 
+   keep your direction and 
+   never be swayed easily 
+   but
+   listen to advice,
+   practice compassion and
+   build trust."**
+   
+**"Never be afraid of the next adventure 
+   even if outside of your comfort zone."**
+   
+**"Stay on top of things."**
 
 {% include medaillon.md %}
 
