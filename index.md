@@ -9,7 +9,8 @@ permalink: index
 
 # Welcome!
 This is my home page,
-where I collect my work, thoughts, ideas ... 
+where I keep a simple [blog](blog), 
+collect my work, thoughts, ideas ... 
 anything I find interesting. 
 Here are some examples of what can be found here —
 are you interested in ...
@@ -40,7 +41,6 @@ or
 blog profiles. 
 But some works are also placed
 in [my blog](blog) here!
-
 
 
 

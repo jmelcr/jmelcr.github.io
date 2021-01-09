@@ -1,6 +1,6 @@
 <img src="https://avatars2.githubusercontent.com/u/12782348?s=460&v=4" style="width: 200px;" class="inline-left"/>
 
-Fighting in the name of science
+Fighting in the name of science, 
 I am a passionate researcher
 doing my best to undertand nature
 using computational modelling. 

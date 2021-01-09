@@ -4,6 +4,8 @@ layout: page
 permalink: aboutme
 ---
 
+Some of my core mottos.
+
 **"Do what you think is right, 
    keep your direction and 
    never be swayed easily 
@@ -12,12 +14,11 @@ permalink: aboutme
    practice compassion and
    build trust."**
    
-**"Never be afraid of the next adventure 
-   even if outside of your comfort zone."**
+**"Never be afraid of the next adventure. 
+   Yes, it will be outside of your comfort zone."**
    
 **"Stay on top of things."**
 
-{% include medaillon.md %}
 
 <HR>
 	
@@ -53,3 +54,7 @@ permalink: aboutme
 -   (2013-2018) PhD student in the group of [prof. Jungwirth](http://jungwirth.uochb.cas.cz/) 
 at the Institute of Organic Chemistry and Biochemistry of the Czech Academy of Sciences in Prague.
 -   (2008-2013) Masters and Bachelors degree at Charles University in Prague
+
+
+{% include medaillon.md %}
+

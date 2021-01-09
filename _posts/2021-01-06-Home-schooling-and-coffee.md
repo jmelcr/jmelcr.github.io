@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Home schooling and coffee"
+author: jmelcr
+---
 The Monday after the Christmas break has hit our daily routines *hard*, right in the morning. 
 
 We have just barely passed the winter solstice.
