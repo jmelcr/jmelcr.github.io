@@ -7,8 +7,23 @@ permalink: projects
 
 # Current projects
 
+- **Permeability of biological membranes:**
+accurate exerimental measurements of small solutes permeability gets explained by MD simulations.
+Will we open new ways to drug delivery?
+
+
 - **Martini 3:**
 Development of the new Martini 3 lipids. 
+I am coordinating an international group of researchers to 
+develp the next generation of highly popular 
+[Martini Coarse-grained model](https://scholar.google.cz/scholar?hl=en&as_sdt=0,5&qsp=3&q=martini+coarse&qst=ib) for lipids. 
+Our standard is remote working,
+we get things done through motivation
+and close collaboration of experts from diverse fields across the globe.
+[GitLab] is our workhorse to communicate, keep synchronized and work together – 
+Asynchronously in our work time, 
+yet in synchrony with the work done.
+
 
 - **MeMBrane project: Enhancing industrial bioprocesses in yeast and bacteria via membrane optimization**
 [MeMBrane project](https://www.membrane.org.uk/) 
@@ -16,20 +31,21 @@ aims at improving and creating possible new industries using cell factories and 
 Our role in the consortium is to provide molecular-level understanding of the processes at cellular membranes
 and assist in guiding the laboratory evolution of the engineered microbes. 
 
+
 - **ECC-lipids - implicitly polarizable lipid models showing accurate interactions with ionic molecules**
-Sodium and Calcium are highly biologically relevant cations. Current (2017) classical MD lipid models, however, overestimate binding of cations even to neutral phosphocholine bilayers. 
-In this project, we identified electronic polarization as the missing key phenomenon responsible for the artifacts. 
-We applied an implicit mean-field model of polarizability 
-([Electronic Continuum Correction, ECC](blog/ECC-post)) 
-on top of [Lipid14](https://pubs.acs.org/doi/abs/10.1021/ct4010307) model 
-yielding [ECC-POPC](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b12510), 
-a new lipid model that accounts for electronic polarization and accurately describes interactions with ions.
-ECC-POPC is already [published](https://pubs.acs.org/doi/10.1021/acs.jpcb.7b12510) 
-and can be also reached in a separate 
-[GitHub repository](https://github.com/ohsOllila/NMRlipids_VI-NewIonModel)
-resp [my fork](https://github.com/jmelcr/NMRlipids_VI-NewIonModel). 
+ECC-lipids is the first MD model to implicitly account for polarizability in molecules. 
+Will it launch [a new "polarizable" era of MD modeling](https://www.frontiersin.org/articles/10.3389/fmolb.2019.00143/full)?
 Current development of ECC-lipids is held in the [GitHub repository ecc_lipids](https://github.com/jmelcr/ecc_lipids)
 with a separate [web page with documentation](https://jmelcr.github.io/ecc_lipids/).
+
+
+
+
+<HR>
+
+
+
+# Past projects
 
 
 - **Determination of protein sctructure with optical polarization microscopy**
@@ -43,13 +59,6 @@ molecular dynamics simulations
 are used as a guide and an independent verifying instrument for such a technique. 
 This project is run in a close collaboration with the group of [Josef Lazar](https://www.uochb.cz/web/structure/1408.html?lang=en). 
 
-
-
-<HR>
-
-
-
-# Past projects
 
 - **Transmembrane potential modeling in molecular simulation**
 All eukaryotic cells maintain a nonzero transmembrane potential across their plasma membranes. It is a crucial feature for many kinds of our organs, e.g. brain, heart, pancreas.
