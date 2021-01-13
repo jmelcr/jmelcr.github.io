@@ -8,17 +8,6 @@ OK, I'll tell you.
 It was the antimicrobial peptidomimetics. 
 And I think we have achieved with Adéla quite a good progress since last time. 
 
-Things are making a good sense –
-simulations and experiments complement each other like in _pas de deux_
-and there are even recent works
-that support some of our findings on similar systems!
-I mean the following "just accepted" JCTC2021 
-https://pubs.acs.org/doi/abs/10.1021/acs.jctc.0c01025
-which explicitly demonstrates that 
-cationic antimicrobial peptides are attracted 
-by membrane negative charge via PG lipids –
-which is also one of the early findings in our work. 
-
 In our study, we use one particluar modified peptide AMC,
 which has a very similar design to the antimicrobial peptides - 
 there is a cationic part and a hydrophobic part.
@@ -41,6 +30,22 @@ This way, I could compare several antimicrobial agents;
 melittin, BP100 (adopted from Peter, thanks!) and AMC. 
 Interestingly, their perturbing effects to the membrane also go in this order
 as sketched in the following infographic – enjoy =]
+
+IMG
+
+Things are making a good sense –
+simulations and experiments complement each other so far like in _pas de deux_
+and there are even recent works
+that support some of our findings on similar systems!
+I mean the following "just accepted" JCTC2021 
+https://pubs.acs.org/doi/abs/10.1021/acs.jctc.0c01025
+which explicitly demonstrates that 
+cationic antimicrobial peptides are attracted 
+by membrane negative charge via PG lipids –
+which is also one of the early findings in our work. 
+
+
+It sometimes feels like too good to be true!
 
 
 Well, that's how it goes! _(scientifically)_
