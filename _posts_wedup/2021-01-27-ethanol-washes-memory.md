@@ -31,7 +31,7 @@ how confusing!
 
 I did not know where to start;
 the knowledge was rather confusing than leading me to some clear conclusion. 
-So, I though to myself ...
+So, I thought to myself ...
 
 _When you do not know what to do about it, do it at least systematically!_
 
@@ -44,7 +44,7 @@ In the moving gif picture attached to this post
 there is an example plot of scaled properties
 "zorder" (diagonal _zz_ component of the order parameter tensor) and
 "APL" (you guess well, it is area per lipid). 
-The colours denote the clusters of membranes with similar porpeties 
+The colours denote the clusters of membranes with similar properties 
 obtained from unsupervised machine learning (aka "clustering"). 
 The first frame in the gif gives you a hint of what the clusters mean;
 there are gel phases, Lo and Ld phases. 
@@ -55,7 +55,7 @@ which are purposefully distributed at specific places.
 - Yeasts are living organisms maintaining their homeostasis 
 including those rigid membrane structures. 
 - Ethanol has the capacity to destabilize such structures 
-and dissolve them into the "regular" fluid phases. 
+and dissolve them into the "regular" fluid phases, not to mention the apparent "softening" effect. 
 (dots and colours disappearing from the gel area in the attached gif)
 
 _Yeast: What happened? I do not remember anything. 
@@ -63,7 +63,7 @@ I was happily fermenting [producing ethanol] until ...
 Hmmpf!_ 😔
 
 Funny aspect – 
-having less to loose to the ethanol memory-whashing effects 
+having less to lose to the ethanol memory-whashing effects 
 seems to protect the cells at yeast fermentation parties
 as those yeasts with less "membrane-contained memory" (more fluid membranes overall)
 seem to suffer less headaches from ethanol than those with more structured membranes.
