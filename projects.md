@@ -8,8 +8,11 @@ permalink: projects
 # Current projects
 
 - **Permeability of biological membranes:**
-accurate exerimental measurements of small solutes permeability gets explained by my MD simulations.
+accurate exerimental measurements of small solutes permeability 
+gets explained by my Molecular Dynamics (MD) simulations.
 Will we open new ways to drug delivery?
+Stay tuned, 
+manuscript in preparation!
 
 
 - **MeMBrane project: Enhancing industrial bioprocesses in yeast and bacteria via membrane optimization**
@@ -25,6 +28,14 @@ but also its phase behaviour – a very important feature for yeast plasma membr
 which contains several coexisting phases at normal conditions!
 (ref e.g. [📚JBC2010](https://www.jbc.org/content/286/7/5043.full))
 
+
+- **Antimicrobial peptides against drug-resistant bacterial strains.**
+Microscopy techniques are powerful and images are usually easy to interpret,
+but lack the molecular detail – and that is where Molecular Dynamics (MD) simulations come in!
+We are working together with research teams from the Netherlands and Norway
+to discover how recently developed antimicrobial agents 
+selectively destroy the methicilin-resistant strains of *Staphylococus Aureus*. 
+The molecular details from my MD simulations bring a few surprises!
 
 
 - **Martini 3:**
