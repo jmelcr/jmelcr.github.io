@@ -17,8 +17,14 @@ Will we open new ways to drug delivery?
 aims at improving and creating possible new industries using cell factories and biomass. 
 In collaboration with expert *in vitro* and *in vivo* research teams, 
 I am using MD simulation experiments to describe and understand 
-the perturbing effects of ethanol on the cell membranes. 
-The most
+the perturbing effects of ethanol on the cell membranes, yeast membranes especially. 
+At the moment, 
+I am preparing a manuscript summarizing my surprising findings
+that ethanol does not only affect the membrane thickness or elasticity,
+but also its phase behaviour – a very important feature for yeast plasma membrane, 
+which contains several coexisting phases at normal conditions!
+(ref e.g. [📚JBC2010](https://www.jbc.org/content/286/7/5043.full))
+
 
 
 - **Martini 3:**
