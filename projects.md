@@ -35,7 +35,8 @@ develp the next generation of highly popular
 Our standard is remote working,
 we get things done through motivation
 and close collaboration of experts from diverse fields across the globe.
-[GitLab] is our workhorse for communication, being synchronized and working together – 
+[🦊GitLab](https://about.gitlab.com/) is our workhorse for communication, 
+being synchronized and working together – 
 Asynchronously in our work time, 
 yet in synchrony with the work done.
 
