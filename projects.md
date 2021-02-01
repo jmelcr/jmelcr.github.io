@@ -8,8 +8,17 @@ permalink: projects
 # Current projects
 
 - **Permeability of biological membranes:**
-accurate exerimental measurements of small solutes permeability gets explained by MD simulations.
+accurate exerimental measurements of small solutes permeability gets explained by my MD simulations.
 Will we open new ways to drug delivery?
+
+
+- **MeMBrane project: Enhancing industrial bioprocesses in yeast and bacteria via membrane optimization**
+[MeMBrane project](https://www.membrane.org.uk/) 
+aims at improving and creating possible new industries using cell factories and biomass. 
+In collaboration with expert *in vitro* and *in vivo* research teams, 
+I am using MD simulation experiments to describe and understand 
+the perturbing effects of ethanol on the cell membranes. 
+The most
 
 
 - **Martini 3:**
@@ -20,23 +29,28 @@ develp the next generation of highly popular
 Our standard is remote working,
 we get things done through motivation
 and close collaboration of experts from diverse fields across the globe.
-[GitLab] is our workhorse to communicate, keep synchronized and work together – 
+[GitLab] is our workhorse for communication, being synchronized and working together – 
 Asynchronously in our work time, 
 yet in synchrony with the work done.
 
 
-- **MeMBrane project: Enhancing industrial bioprocesses in yeast and bacteria via membrane optimization**
-[MeMBrane project](https://www.membrane.org.uk/) 
-aims at improving and creating possible new industries using cell factories and biomass. 
-Our role in the consortium is to provide molecular-level understanding of the processes at cellular membranes
-and assist in guiding the laboratory evolution of the engineered microbes. 
-
-
-- **ECC-lipids - implicitly polarizable lipid models showing accurate interactions with ionic molecules**
-ECC-lipids is the first MD model to implicitly account for polarizability in molecules. 
-Will it launch [a new "polarizable" era of MD modeling](https://www.frontiersin.org/articles/10.3389/fmolb.2019.00143/full)?
-Current development of ECC-lipids is held in the [GitHub repository ecc_lipids](https://github.com/jmelcr/ecc_lipids)
-with a separate [web page with documentation](https://jmelcr.github.io/ecc_lipids/).
+- **Determination of protein sctructure with optical polarization microscopy**
+Polarization microscopy allows sensitive observations of changes in protein conformation in living cells and organisms ([ref.](http://dx.doi.org/10.1021/jp4067026)). 
+For fluorescent proteins with a resolved structure, 
+it is possible to link the polarization microscopy measurements and 
+transition dipole moment orientations to protein strucutre 
+([press release](https://www.osa-opn.org/home/newsroom/2020/december/exploring_the_directionality_of_fluorescent_protei/), 
+[📚PNAS2020](http://www.pnas.org/cgi/doi/10.1073/pnas.2017379117)). 
+In this project,
+I have used 
+quantum mechanical calculations of absorption properties and 
+molecular dynamics simulations
+to help determine the orientations of membrane-attached fluorescent proteins  
+and to independently verify the results 
+from software analysis of optical microscopy images. 
+This work is now accepted for publishing in Communications Biology 2021; 
+[📚 Quantitative Linear Dichroism Imaging of Molecular Processes in Living Cells Made Simple by Open Software Tools (preprint)](https://doi.org/10.21203/rs.3.rs-100685/v1).  
+This project is run in a close collaboration with the group of [Josef Lazar](https://lazar.group.uochb.cz/en). 
 
 
 
@@ -48,21 +62,19 @@ with a separate [web page with documentation](https://jmelcr.github.io/ecc_lipid
 # Past projects
 
 
-- **Determination of protein sctructure with optical polarization microscopy**
-Polarization microscopy allows sensitive observations of changes in protein conformation in living cells and organisms ([ref.](http://dx.doi.org/10.1021/jp4067026)). 
-For fluorescent proteins with a resolved structure, 
-it is possible to link the polarization microscopy measurements and 
-[transition dipole moment](http://www.nh.cas.cz/people/lazar/celler/tdm.php) orientations
-to protein strucutre. 
-Quantum mechanical calculations of absorption properties and 
-molecular dynamics simulations
-are used as a guide and an independent verifying instrument for such a technique. 
-This project is run in a close collaboration with the group of [Josef Lazar](https://www.uochb.cz/web/structure/1408.html?lang=en). 
+- **ECC-lipids - implicitly polarizable lipid models showing accurate interactions with ionic molecules**
+ECC-lipids is the first MD model to implicitly account for polarizability in molecules. 
+Will it launch [a new "polarizable" era of MD modeling](https://www.frontiersin.org/articles/10.3389/fmolb.2019.00143/full)?
+Current development of ECC-lipids is held in the [GitHub repository ecc_lipids](https://github.com/jmelcr/ecc_lipids)
+with a separate [web page with documentation](https://jmelcr.github.io/ecc_lipids/).
+
 
 
 - **Transmembrane potential modeling in molecular simulation**
 All eukaryotic cells maintain a nonzero transmembrane potential across their plasma membranes. It is a crucial feature for many kinds of our organs, e.g. brain, heart, pancreas.
-In this project, I assay current approaches for the modeling of transmembrane potential in molecular simulation.
+In this project, 
+I assay current approaches for the modeling of transmembrane potential in molecular simulation 
+and describe the electrical processes at biomembranes at a molecular resolution.
 Published in Journal of Chemical Theory and Computation, 12 (5), 2016. DOI: [10.1021/acs.jctc.5b01202](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01202).
 
 
