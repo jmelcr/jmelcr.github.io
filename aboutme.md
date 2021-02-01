@@ -14,10 +14,17 @@ Some of my core mottos.
    practice compassion and
    build trust."**
    
-**"Never be afraid of the next adventure. 
-   Yes, it will be outside of your comfort zone."**
-   
-**"Stay on top of things."**
+**"Never be afraid of the next adventure 
+   even if outside of your comfort zone.
+   Embrace discomfort as your new comfort.
+   That is the way of pioneers."**
+
+**"Smile, smile a lot
+   and stay on top of things.
+   Smile with dignity 
+   to the World 
+   as well as 
+   to Your-very-self."**
 
 
 <HR>
