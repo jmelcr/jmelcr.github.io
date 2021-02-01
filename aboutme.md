@@ -48,11 +48,12 @@ to bring high added value. (my passion)
 ## Skills and Experience
 
 -   strong critical thinking and problem solving skills
+-   pro-active self-motivated attitude
 -   project management and leadership
 -   presentation skills, tele-conferencing, remote-working
 -   Molecular Dynamics (MD) simualtions
 -   data science and machine learning (Pandas, scikit-learn, TensorFlow)
--   scientific writing
+-   scientific writing 
 -   coding (Fortran, python, BASH, Git)
 -   HPC and massively parallel computing
 -   GPU computing
@@ -63,6 +64,7 @@ to bring high added value. (my passion)
     -   MD methods: MSM, Replica exchange, dAFED, REUS, MetaD
     -   QM and QM/MM: cp2k, Gaussian
 -   chemical and biological laboratory experiments
+-   graphical design of logos, flyers, posters and scientific graphics
 -   peer review of scientific articles
 
 

@@ -83,6 +83,11 @@ This work is now accepted for publishing in Communications Biology 2021;
 This project is run in a close collaboration with the group of [Josef Lazar](https://lazar.group.uochb.cz/en). 
 
 
+- **International conference on the bioscience of lipids ICBL2021.**
+I am involved in organizing this event
+and in the design of its visual identity and ICBL2021 logo. 
+Take a look here: [icbl2021.nl](https://www.icbl2021.nl/)
+
 
 
 <HR>
