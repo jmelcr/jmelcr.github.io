@@ -52,6 +52,18 @@ Asynchronously in our work time,
 yet in synchrony with the work done.
 
 
+- **Mechanism of protein channels and transporters.**
+Many cells maintain their divalent cations homeostasis 
+by employing membrane proteins from the CorA family. 
+GlTk is a trimeric membrane protein, 
+which is involved in glutamate and aspartate uptake. 
+We use atomistic and coarse-grained Molecular Dynamics (MD) simulations
+to describe the mechanistic behaviour of these proteins. 
+Stay tuned, 
+the manuscript about CorA is almost ready!
+
+
+
 - **Determination of protein sctructure with optical polarization microscopy**
 Polarization microscopy allows sensitive observations of changes in protein conformation in living cells and organisms ([ref.](http://dx.doi.org/10.1021/jp4067026)). 
 For fluorescent proteins with a resolved structure, 
