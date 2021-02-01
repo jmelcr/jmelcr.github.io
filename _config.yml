@@ -1,11 +1,11 @@
 # Site title
-title: Josef Melcr | computational biophysicist
+title: Josef Melcr | Thinker, writer, scientist. Husband and dad.
 
 # Tagline below the site title on post list pages
 tagline: personal web page
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description:
+description: The personal site of Josef Melcr. Here I place my work, thoughts and ideas.
 
 # The base hostname & protocol of your site for where absolute urls are needed
 url: "https://jmelcr.github.io"
@@ -31,7 +31,7 @@ nav:
     url:   "/projects"
   - title: "ECC-lipids"
     url:   "https://jmelcr.github.io/ecc_lipids/"
-  - title: "News"
+  - title: "Blog"
     url:   "/blog"
   - title: "About me"
     url:   "/aboutme"
@@ -64,7 +64,7 @@ authors:
   jmelcr:
     name: Josef Melcr
     website: https://jmelcr.github.io/
-    bio: Computational biophysicist # Author info at bottom of post only shows if bio exists
+    bio: Thinker, writer, scientist. Husband and dad. # Author info at bottom of post only shows if bio exists
     avatar: "https://avatars2.githubusercontent.com/u/12782348?s=460&v=4" 
 
 
