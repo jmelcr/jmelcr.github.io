@@ -12,7 +12,7 @@ This is my home page,
 where I keep a simple [blog](blog), 
 collect my work, thoughts, ideas ... 
 anything I find interesting. 
-Here are some examples of what can be found here —
+Here below are some examples of what can be found here —
 are you interested in ...
 
 ### my scientific work?
@@ -40,7 +40,7 @@ or
 [Medium](https://medium.com/@jmelcr) 
 blog profiles. 
 But some works are also placed
-in [my blog](blog) here!
+in [my blog](blog) here on GH pages!
 
 
 

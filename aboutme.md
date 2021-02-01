@@ -14,47 +14,71 @@ Some of my core mottos.
    practice compassion and
    build trust."**
    
-**"Never be afraid of the next adventure. 
-   Yes, it will be outside of your comfort zone."**
-   
-**"Stay on top of things."**
+**"Never be afraid of the next adventure 
+   even if outside of your comfort zone.
+   Embrace discomfort as your new comfort.
+   That is the way of pioneers."**
+
+**"Smile, smile a lot
+   and stay on top of things.
+   Smile with dignity 
+   to the World 
+   as well as 
+   to Your-very-self."**
 
 
 <HR>
 	
-## Research interests:
 
--   Merging experiments and theory together
+## Research profile and interests:
+
+-   Collaborative research including various 
+experimental and computational methods 
+to bring high added value. (my passion)
+-   Biotechnology and drug discovery.
 -   Biological membranes, model membranes and membrane models, membrane fusion, membrane proteins
--   Polarizability in classical simulation and Electronic Continuum Correction [(ECC)](blog/ECC-post)
 -   Transmembrane potential of living cells, probes of neural activity
 -   Fluorescent protein structure determination using polarization microscopy
--   Markov state modeling, Free energy methods, hybrid approaches and coarse graining
--   Machine learning and deep learning for biomolecules
+-   Polarizability in classical simulation and Electronic Continuum Correction [(ECC)](blog/ECC-post)
+-   Data science, Machine learning and deep learning for biomolecules
 -   Open collaboration research
 
-## Experience
 
+
+## Skills and Experience
+
+-   strong critical thinking and problem solving skills
+-   project management and leadership
+-   presentation skills, tele-conferencing, remote-working
+-   Molecular Dynamics (MD) simualtions
+-   data science and machine learning (Pandas, scikit-learn, TensorFlow)
+-   scientific writing
+-   coding (Fortran, python, BASH, Git)
 -   HPC and massively parallel computing
 -   GPU computing
 -   cloud computing in research (K8S, Docker, [ResOps](https://tsi-ccdoc.readthedocs.io/en/external/ResOps/2019/Agenda-2019.html))
 -   ab-initio, QM/MM and BO-dynamical calculations
+-   molecular modeling skills
+    -   MD packages: Gromacs, NAMD, openMM, VMD, MDAnalysis, mdtraj, PluMeD
+    -   MD methods: MSM, Replica exchange, dAFED, REUS, MetaD
+    -   QM and QM/MM: cp2k, Gaussian
 -   chemical and biological laboratory experiments
--   technical skills:
-    -   coding (Fortran, python, BASH, Git)
-    -   Gromacs, NAMD, openMM, VMD, MDAnalysis, mdtraj, PluMeD
-    -   MSM, Replica exchange, dAFED, REUS, MetaD
-    -   cp2k, Gaussian
 -   peer review of scientific articles
+
 
 	
 
-## Education
+## Education & Work experience
 
+-   (2018- ) Postdoctoral researcher in the group of [Siewert-Jan Marrink](http://cgmartini.nl/)
+at the [University of Groningen](https://www.rug.nl/). 
+My work: see [current projects](projects).
 -   (2013-2018) PhD student in the group of [prof. Jungwirth](http://jungwirth.uochb.cas.cz/) 
 at the Institute of Organic Chemistry and Biochemistry of the Czech Academy of Sciences in Prague.
 -   (2008-2013) Masters and Bachelors degree at Charles University in Prague
 
+
+<HR>
 
 {% include medaillon.md %}
 

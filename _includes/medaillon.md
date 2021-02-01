@@ -15,7 +15,7 @@ but my most recent work was done
 on a sofa in our living room 
 surrounded by curious children. 
 
-
+Find me on 
 [Tumblr](https://jmelcr.tumblr.com/),
 [Medium](https://medium.com/@jmelcr), 
 [GitHub](https://github.com/jmelcr),
