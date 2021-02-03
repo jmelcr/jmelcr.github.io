@@ -10,7 +10,7 @@ and some ducks seemed a bit confused about their new skill
 [walking on water](https://jmelcr.tumblr.com/post/641378600731443200/miracleduck-walk-on-water-miracle-performed-by) 🦆🧊😃
 
 Right now, I am in the middle of my today's experiment –
-what happens if you mix coffeine, rozijnbroodjes and chocomel 
+what happens if you mix caffeine, rozijnbroodjes and chocomel 
 with school activities, work and, of course, some [Martini](http://cgmartini.nl/).
 
 👨‍💻 + 🧑‍🏫 + ☕️ + 🧇 + 🧋 + 🍸 = ?
@@ -18,18 +18,18 @@ with school activities, work and, of course, some [Martini](http://cgmartini.nl/
 Well, we will see at the end of today, 
 what is the result of this chemical reaction.
 So far, 
-I had to assist the home-schooling self-assembly 
+I had to assist some home-schooling self-assembly 
 by "chaperoning" homework 
 and kids-delivering to tele-classes (very endothermal transport process!). 
 After lunch I hope to find some time for my own self-assembly
 with at least one reaction side product –
 digest mail in my over-filled mailbox.
 Let's hope it will be a piece of cake!
-(and some of you may receive a small piece)
+(and some of you may receive a small piece of it)
 
 
 Well, that's how it goes! 
 
 
 PS I first wanted to call this post "homical reaction"
-but got second thoughts after checking possible puns on the first word 😬
+but got second thoughts after checking possible puns on the first word 😬😉
