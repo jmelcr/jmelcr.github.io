@@ -9,8 +9,9 @@ permalink: publications
 - Quantitative Linear Dichroism Imaging of Molecular Processes in Living Cells Made Simple by Open Software Tools. 
 Alexey Bondar, Olga Rybakova, Josef Melcr, Jan Dohnálek, Petro Khoroshyy, 
 Ondrej Tichacek, Štěpán Timr, Paul Miclea, Alina Sakhi, Josef Lazar,
-Nature research preprint, 2020.
-DOI: [10.21203/rs.3.rs-100685/v1](https://www.researchsquare.com/article/rs-100685/v1)
+Communications Biology 4, 2021. 
+DOI: [10.1038/s42003-021-01694-1](https://doi.org/10.1038/s42003-021-01694-1),
+[preprint](https://www.researchsquare.com/article/rs-100685/v1). 
 
 - Dual Resolution Membrane Simulations Using Virtual Sites. 
 Liu, Y., De Vries, A. H., Barnoud, J., Pezeshkian, W., Melcr, J., and Marrink, S. J., 
