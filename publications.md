@@ -11,7 +11,8 @@ Alexey Bondar, Olga Rybakova, Josef Melcr, Jan Dohnálek, Petro Khoroshyy,
 Ondrej Tichacek, Štěpán Timr, Paul Miclea, Alina Sakhi, Josef Lazar,
 Communications Biology 4, 2021. 
 DOI: [10.1038/s42003-021-01694-1](https://doi.org/10.1038/s42003-021-01694-1),
-[preprint](https://www.researchsquare.com/article/rs-100685/v1). 
+[preprint](https://www.researchsquare.com/article/rs-100685/v1) and
+a [related blog post](blog/LDImaging). 
 
 - Dual Resolution Membrane Simulations Using Virtual Sites. 
 Liu, Y., De Vries, A. H., Barnoud, J., Pezeshkian, W., Melcr, J., and Marrink, S. J., 
@@ -22,7 +23,8 @@ DOI: [10.1021/acs.jpcb.0c01842](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.0
 Josef Melcr and Jean-Philip Piquemal,
 Frontiers in Molecular Biosciences, 4, 2019.
 DOI: [10.3389/fmolb.2019.00143](https://www.frontiersin.org/articles/10.3389/fmolb.2019.00143/full), 
-[arXiv preprint](https://arxiv.org/abs/1909.03732). 
+[arXiv preprint](https://arxiv.org/abs/1909.03732) and
+a [related blog post](blog/ECC-post). 
 
 - Improved Cation Binding to Lipid Bilayer with Negatively Charged POPS 
 by Effective Inclusion of Electronic Polarization. 

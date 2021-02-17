@@ -18,9 +18,12 @@ manuscript in preparation!
 - **MeMBrane project: Enhancing industrial bioprocesses in yeast and bacteria via membrane optimization**
 [MeMBrane project](https://www.membrane.org.uk/) 
 aims at improving and creating possible new industries using cell factories and biomass. 
-In collaboration with expert *in vitro* and *in vivo* research teams, 
-I am using MD simulation experiments to describe and understand 
-the perturbing effects of ethanol on the cell membranes, yeast membranes especially. 
+As the _in silico_ "dry lab" members of the project,
+we use MD simulation experiments
+in collaboration with expert *in vitro* and *in vivo* research teams, 
+to describe and understand 
+the perturbing effects of ethanol on the cell membranes, yeast membranes especially, 
+driving the strain development in the best possible direction. 
 At the moment, 
 I am preparing a manuscript summarizing my surprising findings
 that ethanol does not only affect the membrane thickness or elasticity,
