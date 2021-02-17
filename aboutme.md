@@ -6,19 +6,19 @@ permalink: aboutme
 
 Some of my core mottos.
 
-**"Do what you think is right, 
-   keep your direction and 
-   never be swayed easily 
-   but
-   listen to advice,
-   practice compassion and
-   build trust."**
-   
 **"Never be afraid of the next adventure 
    even if outside of your comfort zone.
    Embrace discomfort as your new comfort.
    That is the way of pioneers."**
 
+**"Do what you think is right, 
+   keep your direction and 
+   never be swayed easily, 
+   but
+   listen to advice,
+   practice compassion and
+   build trust."**
+   
 **"Smile, smile a lot
    and stay on top of things.
    Smile with dignity 
@@ -28,14 +28,57 @@ Some of my core mottos.
 
 
 <HR>
-	
+
+<img src="https://avatars2.githubusercontent.com/u/12782348?s=460&v=4" style="width: 200px;" class="inline-left"/>
+
+I beleive that life is more delightful
+when I am pro-active. 
+I like opportunities and challenges
+that require creative work and allow me to grow. 
+That is why I like all
+scientific research, 
+photography,
+music,
+writing scientific papers,
+cooking,
+writing poetry 
+as well as
+raising our children. 
+Because at the core of all these activities
+I find creative work
+which brings me joy and satisfaction. 
+
+We are a scientific family;
+both me and [my wife](https://miss-biophys.tumblr.com/) 
+work as scientists.
+When we had our first child, 
+my wife was expected to take care 
+and put her PhD research on a second track. 
+I found that unacceptable. 
+In spite of the expectations around us,
+we shared the care of our lovely toddler
+and both worked part-time.
+Why did I decide to do that?
+Why did I not just take the easier option?
+Because it was the right thing to do –
+a real support that all women, not only in science, need.
+It was a very joyful period of our lives
+and we managed to obtain our PhD degree at about the same time. 
+At the moment we live in Groningen in the North of the Netherlands,
+where we perform our research in biotechnology and drug development.
+
+
+
+
+<HR>
+
 
 ## Research profile and interests:
 
--   Collaborative research including various 
+-   Collaborative research that includes various 
 experimental and computational methods 
-to bring high added value. (my passion)
--   Biotechnology and drug discovery.
+bringing high added value
+-   Biotechnology and drug discovery
 -   Biological membranes, model membranes and membrane models, membrane fusion, membrane proteins
 -   Transmembrane potential of living cells, probes of neural activity
 -   Fluorescent protein structure determination using polarization microscopy
@@ -49,7 +92,7 @@ to bring high added value. (my passion)
 
 -   strong critical thinking and problem solving skills
 -   pro-active self-motivated attitude
--   project management and leadership
+-   project management and leadership, mentoring
 -   presentation skills, tele-conferencing, remote-working
 -   Molecular Dynamics (MD) simualtions
 -   data science and machine learning (Pandas, scikit-learn, TensorFlow)
@@ -59,10 +102,6 @@ to bring high added value. (my passion)
 -   GPU computing
 -   cloud computing in research (K8S, Docker, [ResOps](https://tsi-ccdoc.readthedocs.io/en/external/ResOps/2019/Agenda-2019.html))
 -   ab-initio, QM/MM and BO-dynamical calculations
--   molecular modeling skills
-    -   MD packages: Gromacs, NAMD, openMM, VMD, MDAnalysis, mdtraj, PluMeD
-    -   MD methods: MSM, Replica exchange, dAFED, REUS, MetaD
-    -   QM and QM/MM: cp2k, Gaussian
 -   chemical and biological laboratory experiments
 -   graphical design of logos, flyers, posters and scientific graphics
 -   peer review of scientific articles
@@ -80,7 +119,4 @@ at the Institute of Organic Chemistry and Biochemistry of the Czech Academy of S
 -   (2008-2013) Masters and Bachelors degree at Charles University in Prague
 
 
-<HR>
-
-{% include medaillon.md %}
 
