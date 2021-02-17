@@ -8,17 +8,37 @@ permalink: projects
 # Current projects
 
 - **Permeability of biological membranes:**
-accurate exerimental measurements of small solutes permeability gets explained by my MD simulations.
+accurate exerimental measurements of small solutes permeability 
+gets explained by my Molecular Dynamics (MD) simulations.
 Will we open new ways to drug delivery?
+Stay tuned, 
+manuscript in preparation!
 
 
 - **MeMBrane project: Enhancing industrial bioprocesses in yeast and bacteria via membrane optimization**
 [MeMBrane project](https://www.membrane.org.uk/) 
 aims at improving and creating possible new industries using cell factories and biomass. 
-In collaboration with expert *in vitro* and *in vivo* research teams, 
-I am using MD simulation experiments to describe and understand 
-the perturbing effects of ethanol on the cell membranes. 
-The most
+As the _in silico_ "dry lab" members of the project,
+we use MD simulation experiments
+in collaboration with expert *in vitro* and *in vivo* research teams, 
+to describe and understand 
+the perturbing effects of ethanol on the cell membranes, yeast membranes especially, 
+driving the strain development in the best possible direction. 
+At the moment, 
+I am preparing a manuscript summarizing my surprising findings
+that ethanol does not only affect the membrane thickness or elasticity,
+but also its phase behaviour – a very important feature for yeast plasma membrane, 
+which contains several coexisting phases at normal conditions!
+(ref e.g. [📚JBC2010](https://www.jbc.org/content/286/7/5043.full))
+
+
+- **Antimicrobial peptides against drug-resistant bacterial strains.**
+Microscopy techniques are powerful and images are usually easy to interpret,
+but lack the molecular detail – and that is where Molecular Dynamics (MD) simulations come in!
+We are working together with research teams from the Netherlands and Norway
+to discover how recently developed antimicrobial agents 
+selectively destroy the methicilin-resistant strains of *Staphylococus Aureus*. 
+The molecular details from my MD simulations bring a few surprises!
 
 
 - **Martini 3:**
@@ -29,9 +49,22 @@ develp the next generation of highly popular
 Our standard is remote working,
 we get things done through motivation
 and close collaboration of experts from diverse fields across the globe.
-[GitLab] is our workhorse for communication, being synchronized and working together – 
+[🦊GitLab](https://about.gitlab.com/) is our workhorse for communication, 
+being synchronized and working together – 
 Asynchronously in our work time, 
 yet in synchrony with the work done.
+
+
+- **Mechanism of protein channels and transporters.**
+Many cells maintain their divalent cations homeostasis 
+by employing membrane proteins from the CorA family. 
+GlTk is a trimeric membrane protein, 
+which is involved in glutamate and aspartate uptake. 
+We use atomistic and coarse-grained Molecular Dynamics (MD) simulations
+to describe the mechanistic behaviour of these proteins. 
+Stay tuned, 
+the manuscript about CorA is almost ready!
+
 
 
 - **Determination of protein sctructure with optical polarization microscopy**
@@ -52,6 +85,11 @@ This work is now accepted for publishing in Communications Biology 2021;
 [📚 Quantitative Linear Dichroism Imaging of Molecular Processes in Living Cells Made Simple by Open Software Tools (preprint)](https://doi.org/10.21203/rs.3.rs-100685/v1).  
 This project is run in a close collaboration with the group of [Josef Lazar](https://lazar.group.uochb.cz/en). 
 
+
+- **International conference on the bioscience of lipids ICBL2021.**
+I am involved in organizing this event
+and in the design of its visual identity and ICBL2021 logo. 
+Take a look here: [icbl2021.nl](https://www.icbl2021.nl/)
 
 
 
