@@ -1,13 +1,14 @@
 *My subjective opinion on your progress*
-You used to maintain a weekly journal, which was a place for me to help you reflect on your activities and progress. I do not see it is being maintained any longer, so I briefly describe here how I see your progress based on what I know. 
+You used to maintain a weekly journal, which was a place for me to help you reflect on your activities and progress. I do not see it is being maintained any longer, so I briefly describe here how I see your progress based on what I observe in general. 
 
-I am sorry to hear that you still sometimes consider your work as "not very good". You seem to jump to such negative conclusions too easily and too often.
+I am sorry to hear that you still sometimes consider your work as "not very good". You seem to jump to such negative conclusions too easily and too often. (Do not do that!)
 *Your work is good.* 
 Consider for example the PNAS paper with the "bell-cora". I find that almost ridiculous! (how could they accept that in PNAS?)
 I consider your work to be better than the simulations in that paper, so why do not you?
 
 It is normal that during the writing stage, ideas and words go back a forth and people make mistakes. All people involved – you, me, Siewert and Albert – *we all make mistakes.* 
 It will also happen during the writing. There may be lots of misunderstandings, unclear statements, asked clarifications, which are later discarded anyways – that is just the normal "dirt" of scientific writing. 
+IMO, This will help you deal with that 👇
 
 *Do not be afraid* to be proactive; to write, to accept-as-well-as-reject edits and, most importantly of all, ask questions, ask for help and clarification. Siewert and Albert cannot answer your questions if you do not ask — they may even be waiting for them!
 
@@ -17,5 +18,3 @@ Also when we talk, you are less hectic. You used to jump a lot from place to pla
 
 I think this is enough for one post. 
 I hope you find it useful for you further development!
-
-
