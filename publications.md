@@ -7,7 +7,16 @@ permalink: publications
 # Publications
 
 - Martini 3.0: A General Purpose Force Field for Coarse-Grained Molecular Dynamics.
-More details TBA once published in Nature Methods, April 2021.
+Paulo C. T. Souza, Riccardo Alessandri, Jonathan Barnoud, 
+Sebastian Thallmair, Ignacio Faustino, Fabian Grünewald, 
+Ilias Patmanidis, Haleh Abdizadeh, Bart M. H. Bruininks, 
+Tsjerk A. Wassenaar, Peter C. Kroon, Josef Melcr, Vincent Nieto, 
+Valentina Corradi, Hanif M. Khan, Jan Domański, 
+Matti Javanainen, Hector Martinez-Seara, Nathalie Reuter, 
+Robert B. Best, Ilpo Vattulainen, Luca Monticelli, Xavier Periole, 
+D. Peter Tieleman, Alex H. de Vries and Siewert J. Marrink,
+Nature Methods, 2021.
+DOI: [10.1038/s41592-021-01098-3](https://doi.org/10.1038/s41592-021-01098-3).
 
 - Quantitative Linear Dichroism Imaging of Molecular Processes in Living Cells Made Simple by Open Software Tools. 
 Alexey Bondar, Olga Rybakova, Josef Melcr, Jan Dohnálek, Petro Khoroshyy, 
