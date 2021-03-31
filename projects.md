@@ -44,15 +44,15 @@ The molecular details from my MD simulations bring a few surprises!
 - **Martini 3:**
 Development of the new Martini 3 lipids. 
 I am coordinating an international group of researchers to 
-develp the next generation of highly popular 
-[Martini Coarse-grained model](https://scholar.google.cz/scholar?hl=en&as_sdt=0,5&qsp=3&q=martini+coarse&qst=ib) for lipids. 
-Our standard is remote working,
-we get things done through motivation
-and close collaboration of experts from diverse fields across the globe.
-[🦊GitLab](https://about.gitlab.com/) is our workhorse for communication, 
-being synchronized and working together – 
-Asynchronously in our work time, 
-yet in synchrony with the work done.
+develp the next generation of the highly popular 
+[Martini Coarse-grained model](https://scholar.google.cz/scholar?hl=en&as_sdt=0,5&qsp=3&q=martini+coarse&qst=ib) for lipids,
+which has reached an important new milestone —
+[Martini 3!](https://doi.org/10.1038/s41592-021-01098-3)
+Using 
+[🦊GitLab](https://about.gitlab.com/) as our workhorse for communication
+and staying in sync,
+we build a community of experts from diverse fields across the globe
+to make the best possible models of our precious chemicals, lipids!
 
 
 - **Mechanism of protein channels and transporters.**
