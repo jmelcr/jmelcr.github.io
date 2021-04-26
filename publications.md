@@ -6,6 +6,13 @@ permalink: publications
 
 # Publications
 
+- Asymmetric CorA Gating Mechanism as Observed by Molecular Dynamics Simulations.
+Mariia Nemchinova, Josef Melcr, Tsjerk A. Wassenaar, 
+Siewert J. Marrink, and Albert Guskov.
+J. Chem. Inf. Model, 2021.
+DOI: [10.1021/acs.jcim.1c00261](https://doi.org/10.1021/acs.jcim.1c00261).
+
+
 - Martini 3.0: A General Purpose Force Field for Coarse-Grained Molecular Dynamics.
 Paulo C. T. Souza, Riccardo Alessandri, Jonathan Barnoud, 
 Sebastian Thallmair, Ignacio Faustino, Fabian Grünewald, 
