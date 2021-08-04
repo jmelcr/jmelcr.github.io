@@ -73,18 +73,7 @@ we build a community of experts from diverse fields across the globe
 to make the best possible models of our precious chemicals, lipids!
 
 
-- **Mechanism of protein channels and transporters.**
-Many cells maintain their divalent cations homeostasis 
-by employing membrane proteins from the CorA family. 
-We use atomistic and coarse-grained Molecular Dynamics (MD) simulations
-to describe the mechanistic behaviour of these proteins. 
-Only [CG Martini](https://doi.org/10.1038/s41592-021-01098-3)
-combined with GO-like potentials
-was capable of capturing the complicated large-scaled chaotic motions
-of CorA protein complex—see for yourselves
-in [JCIM 2021!](https://doi.org/10.1021/acs.jcim.1c00261).
- 
-
+- **Mechanism of protein channels and transporters - GlTk.**
 GlTk is a trimeric membrane protein, 
 which is involved in glutamate and aspartate uptake. 
 We use cutting-edge polarizable force fields and Markov state modeling 
@@ -109,7 +98,21 @@ how do you like the flipping gif?
 
 
 
-# Past projects
+# Finished projects
+
+
+- **Mechanism of protein channels and transporters - CorA.**
+Many cells maintain their divalent cations homeostasis 
+by employing membrane proteins from the CorA family. 
+We use atomistic and coarse-grained Molecular Dynamics (MD) simulations
+to describe the mechanistic behaviour of these proteins. 
+Only [CG Martini](https://doi.org/10.1038/s41592-021-01098-3)
+combined with GO-like potentials
+was capable of capturing the complicated large-scaled chaotic motions
+of CorA protein complex—see for yourselves
+in [JCIM 2021!](https://doi.org/10.1021/acs.jcim.1c00261).
+ 
+
 
 
 - **Determination of protein sctructure with optical polarization microscopy**
