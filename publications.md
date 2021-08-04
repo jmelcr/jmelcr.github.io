@@ -6,6 +6,27 @@ permalink: publications
 
 # Publications
 
+- Membrane thickness, lipid phase and sterol type are determining factors in the permeability of membranes to small solutes. 
+J. Frallicciardi, J. Melcr , P. Siginou , S. J. Marrink and B. Poolman. 
+Nature communications, 2021, *in review*. 
+Preprint on [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.16.452599v1).
+
+- Inverse conformational selection in lipid-protein binding. 
+A. Bacle, P. Buslaev, R. Garcia-Fandino, F. Favela-Rosales, 
+T. Mendes Ferreira, P. Fuchs, I. Gushchin, M. Javanainen, 
+A. Kiirikki, J. Madsen, J. Melcr, P. Milán Rodríguez, M. Miettinen, 
+S. O. H. Ollila, C. Papadopoulos, A. Peon, T. Piggot, 
+A. Pineiro, S. Virtanen. 
+Journal of American Chemical Society, 2021, *accepted for publication*, 
+preprint at [GitHub](https://github.com/NMRLipids/NMRlipidsIVPEandPGmanuscript/blob/7526ae37d478a2434062b2e24b861b95d4087553/manuscriptPGPE.pdf). 
+
+- Adaptive response to wine selective pressures shapes the genome of a Saccharomyces interspecies hybrid. 
+M. Lairón-Peris; G. L. Castiglioni; S. J. Routledge; 
+J. Alonso del Real; J. A Linney; A. R. Pitt; 
+J. Melcr; A. D. Goddard; E. Barrio; A. Querol. 
+Microbial Genomics, 2021, *accepted for publication*. 
+
+
 - Asymmetric CorA Gating Mechanism as Observed by Molecular Dynamics Simulations.
 Mariia Nemchinova, Josef Melcr, Tsjerk A. Wassenaar, 
 Siewert J. Marrink, and Albert Guskov.
