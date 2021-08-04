@@ -7,7 +7,7 @@ permalink: publications
 # Publications
 
 - Membrane thickness, lipid phase and sterol type are determining factors in the permeability of membranes to small solutes. 
-J. Frallicciardi, J. Melcr , P. Siginou , S. J. Marrink and B. Poolman. 
+J. Frallicciardi, J. Melcr, P. Siginou, S. J. Marrink and B. Poolman. 
 Nature communications, 2021, *in review*. 
 Preprint on [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.16.452599v1).
 
