@@ -79,11 +79,11 @@ where we perform our research in biotechnology and drug development.
 experimental and computational methods 
 bringing high added value
 -   Biotechnology and drug discovery
+-   Data science, Machine learning and deep learning in biotechnology
 -   Biological membranes, model membranes and membrane models, membrane fusion, membrane proteins
 -   Transmembrane potential of living cells, probes of neural activity
 -   Fluorescent protein structure determination using polarization microscopy
 -   Polarizability in classical simulation and Electronic Continuum Correction [(ECC)](blog/ECC-post)
--   Data science, Machine learning and deep learning for biomolecules
 -   Open collaboration research
 
 
@@ -104,7 +104,8 @@ bringing high added value
 -   ab-initio, QM/MM and BO-dynamical calculations
 -   chemical and biological laboratory experiments
 -   graphical design of logos, flyers, posters and scientific graphics
--   peer review of scientific articles
+-   Review Editor of [Frontiers in Molecular Biosciences](https://www.frontiersin.org/journals/molecular-biosciences#) 
+[(my Frontiers profile)](https://loop.frontiersin.org/people/709298/overview)
 
 
 	

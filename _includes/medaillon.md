@@ -26,4 +26,5 @@ Find me on
 <a itemprop="sameAs" content="https://orcid.org/0000-0003-4729-3990" href="https://orcid.org/0000-0003-4729-3990" target="orcid.widget" rel="noopener noreferrer"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a>, 
 [ResearchGate](https://www.researchgate.net/profile/Josef_Melcr),
 [Google scholar](https://scholar.google.cz/citations?hl=en&user=Nkoi1CoAAAAJ), 
+[Frontiers Loop](https://loop.frontiersin.org/people/709298/overview), 
 [Mendeley](https://www.mendeley.com/profiles/josef-melcr/) 
