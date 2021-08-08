@@ -46,6 +46,6 @@ such features appear to me
 as qualities that are more typical for women than for men.
 
 It takes a great strength to walk your own path
-to the place, where you heart takes you. 
+to the place, where your heart takes you. 
 Definitely nothing for someone weak.
 
