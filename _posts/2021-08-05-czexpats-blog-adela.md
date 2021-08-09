@@ -41,9 +41,10 @@ I see "having a grit" is just a different way of saying "be aggresive".
 
 In contrast,
 I beleive that leading with compassion is the right way,
-as compassion requires inner peace and strength—and 
-such features appear to me 
-as qualities that are more typical for women than for men.
+as compassion requires inner peace and strength. 
+I perceive such features 
+as qualities that are more typical for women than for men;
+strong "wo-manly" features. 
 
 It takes a great strength to walk your own path
 to the place, where your heart takes you. 
