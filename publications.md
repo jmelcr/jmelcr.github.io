@@ -17,15 +17,16 @@ T. Mendes Ferreira, P. Fuchs, I. Gushchin, M. Javanainen,
 A. Kiirikki, J. Madsen, J. Melcr, P. Milán Rodríguez, M. Miettinen, 
 S. O. H. Ollila, C. Papadopoulos, A. Peon, T. Piggot, 
 A. Pineiro, S. Virtanen. 
-Journal of American Chemical Society, 2021, *accepted for publication*
-with DOI [10.1021/jacs.1c05549](https://doi.org/10.1021/jacs.1c05549), 
+Journal of American Chemical Society, 2021. 
+DOI: [10.1021/jacs.1c05549](https://doi.org/10.1021/jacs.1c05549), 
 preprint at [GitHub](https://github.com/NMRLipids/NMRlipidsIVPEandPGmanuscript/blob/7526ae37d478a2434062b2e24b861b95d4087553/manuscriptPGPE.pdf). 
 
 - Adaptive response to wine selective pressures shapes the genome of a Saccharomyces interspecies hybrid. 
 M. Lairón-Peris; G. L. Castiglioni; S. J. Routledge; 
 J. Alonso del Real; J. A Linney; A. R. Pitt; 
 J. Melcr; A. D. Goddard; E. Barrio; A. Querol. 
-Microbial Genomics, 2021, *accepted for publication*. 
+Microbial Genomics, 2021. 
+DOI: [10.1099/mgen.0.000628](https://doi.org/10.1099/mgen.0.000628)
 
 
 - Asymmetric CorA Gating Mechanism as Observed by Molecular Dynamics Simulations.
