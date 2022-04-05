@@ -8,8 +8,9 @@ permalink: publications
 
 - Membrane thickness, lipid phase and sterol type are determining factors in the permeability of membranes to small solutes. 
 J. Frallicciardi, J. Melcr, P. Siginou, S. J. Marrink and B. Poolman. 
-Nature communications, 2021, *in review*. 
-Preprint on [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.16.452599v1).
+Nature communications, 2022. 
+DOI: [10.1038/s41467-022-29272-x](https://doi.org/10.1038/s41467-022-29272-x), 
+Preprint on [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.16.452599v1) since 2021.
 
 - Inverse conformational selection in lipid-protein binding. 
 A. Bacle, P. Buslaev, R. Garcia-Fandino, F. Favela-Rosales, 
