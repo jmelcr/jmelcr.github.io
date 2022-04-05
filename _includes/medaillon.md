@@ -6,14 +6,8 @@ doing my best to undertand nature
 using computational modelling. 
 In between the lines of code and scientific writing,
 I occasionally make [digital artwork](https://jmelcr.tumblr.com/)
-and [write poetry](https://jmelcr.tumblr.com/post/638030535537672192/so-it-goes-stands-in-slaughterhouse-five-a-book). 
+and [write poetry](https://medium.com/@jmelcr). 
 
-Currently, I am a [postdoctroal researcher](https://www.rug.nl/staff/j.melcr/) 
-in the group of [Siewert-Jan Marrink](http://cgmartini.nl/)
-at the [University of Groningen](https://www.rug.nl/), 
-but my most recent work was done 
-on a sofa in our living room 
-surrounded by curious children. 
 
 Find me on 
 [Tumblr](https://jmelcr.tumblr.com/),

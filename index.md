@@ -15,6 +15,14 @@ anything I find interesting.
 Here below are some examples of what can be found here —
 are you interested in ...
 
+### my startup company?
+At the moment, I am starting a company **Protyon**
+with a mission to introduce personalized precision medicine to clinical practice 
+by leveraging the latest scientific advances 
+in computational molecular modeling. 
+We are still in a very early stage,
+but I am looking forward to share more soon—something big is certainly growing!
+
 ### my scientific work?
 My work in scientific research 
 already requires to be split across several pages.
@@ -50,20 +58,13 @@ in [my blog](blog) here on GH pages!
 # Contact
 	
 ```
-j.melcr@rug.nl
-+31 50 36 34323
 ResearcherId: G-8562-2014
 ORCID: 0000-0003-4729-3990
 ```
 
+Want to write me a message?
+Contact me on 
+[LinkedIn](https://linkedin.com/in/jmelcr)!
 
-### WORK ADDRESS
-```
-Gron Inst Biomolecular Sciences & Biotechnology
-Faculty of Science and Engineering
-Molecular Dynamics 
-Nijenborgh 7
-9747 AG Groningen
-The Netherlands
-```
+
 

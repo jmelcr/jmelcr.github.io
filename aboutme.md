@@ -73,6 +73,21 @@ where we perform our research in biotechnology and drug development.
 <HR>
 
 
+## Education & Work experience
+
+-   (2022– )Founder of Protyon, a company with a mission 
+to introduce personalized precision medicine to clinical practice 
+by leveraging the latest scientific advances 
+in computational molecular modeling. 
+-   (2018–2021) Postdoctoral researcher in the group of [Siewert-Jan Marrink](http://cgmartini.nl/)
+at the [University of Groningen](https://www.rug.nl/). 
+My work: see [current projects](projects).
+-   (2013–2018) PhD student in the group of [prof. Jungwirth](http://jungwirth.uochb.cas.cz/) 
+at the Institute of Organic Chemistry and Biochemistry of the Czech Academy of Sciences in Prague.
+-   (2008–2013) Masters and Bachelors degree at Charles University in Prague
+
+
+
 ## Research profile and interests:
 
 -   Collaborative research that includes various 
@@ -109,15 +124,4 @@ bringing high added value
 
 
 	
-
-## Education & Work experience
-
--   (2018- ) Postdoctoral researcher in the group of [Siewert-Jan Marrink](http://cgmartini.nl/)
-at the [University of Groningen](https://www.rug.nl/). 
-My work: see [current projects](projects).
--   (2013-2018) PhD student in the group of [prof. Jungwirth](http://jungwirth.uochb.cas.cz/) 
-at the Institute of Organic Chemistry and Biochemistry of the Czech Academy of Sciences in Prague.
--   (2008-2013) Masters and Bachelors degree at Charles University in Prague
-
-
 
