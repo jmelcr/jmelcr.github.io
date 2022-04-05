@@ -1,12 +1,15 @@
 <img src="https://avatars2.githubusercontent.com/u/12782348?s=460&v=4" style="width: 200px;" class="inline-left"/>
 
-Fighting in the name of science, 
-I am a passionate researcher
-doing my best to undertand nature
-using computational modelling. 
+Josef Melcr is 
+a passionate researcher
+and
+the founder of Protyon. 
+He loves science and 
+undertanding nature
+from the point of computational modeling. 
 In between the lines of code and scientific writing,
-I occasionally make [digital artwork](https://jmelcr.tumblr.com/)
-and [write poetry](https://medium.com/@jmelcr). 
+he occasionally makes [digital artwork](https://jmelcr.tumblr.com/)
+and [writes poetry](https://medium.com/@jmelcr). 
 
 
 Find me on 

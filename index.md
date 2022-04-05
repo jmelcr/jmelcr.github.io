@@ -13,7 +13,7 @@ where I keep a simple [blog](blog),
 collect links to my work, thoughts, ideas ... 
 anything I find interesting. 
 Here below are some examples of what can be found here —
-are you interested in ...
+**are you interested in ...**
 
 ### my startup company?
 At the moment, I am starting a startup company **Protyon**

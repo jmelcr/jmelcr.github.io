@@ -7,7 +7,7 @@ permalink: projects
 
 # Current projects
 
-- **Protyon — startup in health tech**
+- **Protyon — startup in health tech.**
 By leveraging the latest scientific advances 
 in computational molecular modeling 
 we are embarking on a mission to
@@ -15,7 +15,6 @@ introduce personalized precision medicine to clinical practice.
 That is the reason why we started **Protyon**. 
 🚀 And as it goes with startups,
 we are building our spaceship at the same time as we fly it. 
-
 *To boldly go where no man has gone before!*
 
 
