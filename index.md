@@ -16,7 +16,7 @@ Here below are some examples of what can be found here —
 are you interested in ...
 
 ### my startup company?
-At the moment, I am starting a company **Protyon**
+At the moment, I am starting a startup company **Protyon**
 with a mission to introduce personalized precision medicine to clinical practice 
 by leveraging the latest scientific advances 
 in computational molecular modeling. 
