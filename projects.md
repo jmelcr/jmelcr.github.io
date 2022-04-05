@@ -7,21 +7,16 @@ permalink: projects
 
 # Current projects
 
-- **Permeability of biological membranes:**
-accurate exerimental measurements of small solutes permeability 
-gets explained by my Molecular Dynamics (MD) simulations
-in the context of the yeast plasma membrane and its very special properties.
-From our systematic analysis 
-we conclude two important new discoveries; 
-the yeast plasma membrane is in a highly rigid physical state 
-comparable to model membranes of saturated lipids with approximately 15% ergosterol. 
-Ergosterol, the main sterol in yeast membranes, 
-changes the membrane properties including the permeability coefficient smoothly, 
-allowing it to act as a membrane rigidity regulator in yeast—but
-cholesterol cannot do that in such a rigid regime.
-Stay tuned, because this amazing work is currently
-*in review!*
+- **Protyon — startup in health tech**
+By leveraging the latest scientific advances 
+in computational molecular modeling 
+we are embarking on a mission to
+introduce personalized precision medicine to clinical practice. 
+That is the reason why we started **Protyon**. 
+🚀 And as it goes with startups,
+we are building our spaceship at the same time as we fly it. 
 
+*To boldly go where no man has gone before!*
 
 
 
@@ -37,6 +32,41 @@ but you can take a sneak peek into the research already now
 by watching the pitch of the leading researcher 
 [on YouTube!](https://youtu.be/eMDIkMzqjus)
 (I was behind the camera and did the cut this time.)
+
+
+
+
+
+
+<HR>
+
+
+
+# Finished projects
+
+
+- **Permeability of biological membranes:**
+accurate exerimental measurements of small solutes permeability 
+gets explained by my Molecular Dynamics (MD) simulations
+in the context of the yeast plasma membrane and its very special properties.
+From our systematic analysis 
+we conclude two important new discoveries; 
+the yeast plasma membrane is in a highly rigid physical state 
+comparable to model membranes of saturated lipids with approximately 15% ergosterol. 
+Ergosterol, the main sterol in yeast membranes, 
+changes the membrane properties including the permeability coefficient smoothly, 
+allowing it to act as a membrane rigidity regulator in yeast—but
+cholesterol cannot do that in such a rigid regime.
+Now published in *Nature Communications*, 
+DOI: [10.1038/s41467-022-29272-x](https://doi.org/10.1038/s41467-022-29272-x).
+
+
+
+- **International conference on the bioscience of lipids ICBL2021.**
+I am involved in organizing this event
+and in the design of its visual identity and ICBL2021 logo. 
+Take a look here: [icbl2021.nl](https://www.icbl2021.nl/) — 
+how do you like the flipping gif?
 
 
 
@@ -81,24 +111,6 @@ to follow the pathways of the sodium cations
 to and from their active sites in the GlTk protein complex.
 We have discovered several crucial amino acid residues 
 that interact with the cations and modulate the whole process. 
-Stay tuned,
-manuscript in preparation!
-
-
-
-- **International conference on the bioscience of lipids ICBL2021.**
-I am involved in organizing this event
-and in the design of its visual identity and ICBL2021 logo. 
-Take a look here: [icbl2021.nl](https://www.icbl2021.nl/) — 
-how do you like the flipping gif?
-
-
-
-<HR>
-
-
-
-# Finished projects
 
 
 - **Mechanism of protein channels and transporters - CorA.**

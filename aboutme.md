@@ -75,7 +75,7 @@ where we perform our research in biotechnology and drug development.
 
 ## Education & Work experience
 
--   (2022– )Founder of Protyon, a company with a mission 
+-   (2022– ) Founder of Protyon, a company with a mission 
 to introduce personalized precision medicine to clinical practice 
 by leveraging the latest scientific advances 
 in computational molecular modeling. 
