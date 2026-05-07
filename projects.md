@@ -5,18 +5,35 @@ permalink: projects
 ---
 
 
-# Current projects
+# Current 
 
 - **Protyon — startup in health tech.**
-By leveraging the latest scientific advances 
-in computational molecular modeling 
-we are embarking on a mission to
-introduce personalized precision medicine to clinical practice. 
-That is the reason why we started **Protyon**. 
+Protyon is a startup company in the Netherlands 
+that offers clinical decision support software 
+for hospital clinicians treating cancer patients, 
+[www.protyon.tech](http://www.protyon.tech).
+
+By leveraging computational molecular modeling 
+and the latest scientific advances, 
+we aim to bring personalized precision medicine 
+into clinical practice. 
+That’s why we started **Protyon**:
+to help clinicians make better treatment decisions
+and improve outcomes for their patients. 
 🚀 And as it goes with startups,
 we are building our spaceship at the same time as we fly it. 
 *To boldly go where no man has gone before!*
 
+
+
+
+
+
+<HR>
+
+
+
+# Finished projects
 
 
 - **Antimicrobial peptides against drug-resistant bacterial strains.**
@@ -33,15 +50,6 @@ by watching the pitch of the leading researcher
 (I was behind the camera and did the cut this time.)
 
 
-
-
-
-
-<HR>
-
-
-
-# Finished projects
 
 
 - **Permeability of biological membranes:**
@@ -172,4 +180,3 @@ This project is run in a close collaboration with the group of [Josef Lazar](htt
 -  Development of classical force field parameters for organometallic compounds compatible with Amber force field.
 
 -  Enzymatic activity of EF-Tu, a protein factor that takes part in the process of translation on the Ribozome.
-

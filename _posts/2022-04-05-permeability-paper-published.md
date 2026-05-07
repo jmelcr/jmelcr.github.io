@@ -11,7 +11,7 @@ After about 1 year of research and
 about another year of peer review,
 our paper on the permeability of cell membranes is finally out!
 
-The full reference is in [publications](publications), here only a direct link using 
+The full reference is in [publications](/publications), here only a direct link using 
 DOI: [10.1038/s41467-022-29272-x](https://doi.org/10.1038/s41467-022-29272-x). 
 
 I won't go into too much detail
@@ -41,4 +41,3 @@ was a key step in our discovery.
 
 And, this is the first paper I have with 
 a real [knight](https://www.rug.nl/news/2021/04/bert-poolman-appointed-knight-in-the-order-of-the-dutch-lion)! 😁
-

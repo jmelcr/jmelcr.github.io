@@ -6,6 +6,15 @@ permalink: publications
 
 # Publications
 
+- Membrane manipulation by free fatty acids improves microbial plant polyphenol synthesis. 
+Tharmasothirajan A., Melcr J., et al. 
+Nature Communications, 2023. 
+DOI: [10.1038/s41467-023-40947-x](https://doi.org/10.1038/s41467-023-40947-x).
+
+- Lateral membrane organization as target of an antimicrobial peptidomimetic compound. 
+Melcrová A., Maity S., Melcr J., et al. 
+Nature Communications, 2023.
+
 - Membrane thickness, lipid phase and sterol type are determining factors in the permeability of membranes to small solutes. 
 J. Frallicciardi, J. Melcr, P. Siginou, S. J. Marrink and B. Poolman. 
 Nature communications, 2022. 
@@ -55,7 +64,7 @@ Ondrej Tichacek, Štěpán Timr, Paul Miclea, Alina Sakhi, Josef Lazar,
 Communications Biology 4, 2021. 
 DOI: [10.1038/s42003-021-01694-1](https://doi.org/10.1038/s42003-021-01694-1),
 [preprint](https://www.researchsquare.com/article/rs-100685/v1) and
-a [related blog post](blog/LDImaging). 
+a [related blog post](/blog/LDImaging). 
 
 - Dual Resolution Membrane Simulations Using Virtual Sites. 
 Liu, Y., De Vries, A. H., Barnoud, J., Pezeshkian, W., Melcr, J., and Marrink, S. J., 
@@ -67,7 +76,7 @@ Josef Melcr and Jean-Philip Piquemal,
 Frontiers in Molecular Biosciences, 4, 2019.
 DOI: [10.3389/fmolb.2019.00143](https://www.frontiersin.org/articles/10.3389/fmolb.2019.00143/full), 
 [arXiv preprint](https://arxiv.org/abs/1909.03732) and
-a [related blog post](blog/ECC-post). 
+a [related blog post](/blog/ECC-post). 
 
 - Improved Cation Binding to Lipid Bilayer with Negatively Charged POPS 
 by Effective Inclusion of Electronic Polarization. 
@@ -117,5 +126,3 @@ DOI: [10.1021/acs.jctc.6b00416](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b
 -   PRACE Tier-0 project award at Curie-HN supercomputer
 -   Juelich Supercomputing Centre project award at JUROPA and JURECA supercomputers
 -   Best poster award at CECAM Conference "Understanding function of proteins in membrane by atomistic and multiscale simulations", Lugano, Switzerland, November 2015
-
-

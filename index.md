@@ -9,46 +9,48 @@ permalink: index
 
 # Welcome!
 This is my home page,
-where I keep a simple [blog](blog), 
-collect links to my work, thoughts, ideas ... 
-anything I find interesting. 
-Here below are some examples of what can be found here —
-**are you interested in ...**
-
-### my startup company?
-At the moment, I am starting a startup company **Protyon**
-with a mission to introduce personalized precision medicine to clinical practice 
-by leveraging the latest scientific advances 
-in computational molecular modeling. 
-We are still in a very early stage,
-but I am looking forward to share more soon—something big is certainly growing!
-
-### my scientific work?
-My work in scientific research 
-already requires to be split across several pages.
-So, depending on what you are looking for, 
-you shall consider taking a look
-at my [Projects](projects)
-or at 
-my [About me page](aboutme). 
-Or was it just a [list of publications?](publications)
-
-**More into coding and computing?**
-Then you may like to see 
-my [GitHub projects](https://github.com/jmelcr)!
+where you can learn a bit more about me on
+[About me page](/aboutme)
+or from the occasional [blog posts](/blog), 
+or links to other sites. 
 
 
-### my arts, photography and writing?
+### Protyon, a health tech startup
+At Protyon, 
+we are building software tools 
+to help clinicians choose personalized treatments 
+for cancer patients. 
+Our mission is to 
+introduce personalized precision medicine 
+directly into clinical practice,
+where it can support 
+better treatment decisions 
+and improved clinical outcomes. 
+More at 
+[www.protyon.tech](http://www.protyon.tech).
+
+
+### Science
+My work in scientific research
+spans many domains and projects
+that could easily fill multiple pages. 
+So, depending on what you are looking for,
+you may want to take a look
+at the [Projects](/projects) page
+or maybe at the [list of publications](/publications). 
+
+
+
+### Art, photography and writing?
 I usually collect 
-my arts, thoughts and mindful writing 
-elsewhere, namely on 
-my 
+my arts, thoughts and some mindful writing 
+on my 
 [Tumblr](https://jmelcr.tumblr.com/)
 or
 [Medium](https://medium.com/@jmelcr) 
-blog profiles. 
-But some works are also placed
-in [my blog](blog) here on GH pages!
+profiles. 
+But a few pieces are also placed
+in [my blog](/blog) here on GH pages!
 
 
 
@@ -65,6 +67,4 @@ ORCID: 0000-0003-4729-3990
 Want to write me a message?
 Contact me on 
 [LinkedIn](https://linkedin.com/in/jmelcr)!
-
-
 

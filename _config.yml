@@ -1,11 +1,11 @@
 # Site title
-title: Josef Melcr | Thinker, writer, scientist. Husband and dad.
+title: Josef Melcr | Thinker, technologist, scientist, team player. Husband and dad.
 
 # Tagline below the site title on post list pages
 tagline: personal web page
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: The personal site of Josef Melcr. Here I place my work, thoughts and ideas.
+description: Personal website of Josef Melcr. 
 
 # The base hostname & protocol of your site for where absolute urls are needed
 url: "https://jmelcr.github.io"
@@ -27,20 +27,20 @@ google_analytics_tracking_id:
 nav:
   - title: "Home"
     url:   "/"
-  - title: "Projects"
-    url:   "/projects"
-  - title: "ECC-lipids"
-    url:   "https://jmelcr.github.io/ecc_lipids/"
-  - title: "Blog"
-    url:   "/blog"
   - title: "About me"
     url:   "/aboutme"
+  - title: "Projects"
+    url:   "/projects"
+  - title: "Blog"
+    url:   "/blog"
   - title: "Publications"
     url:   "/publications"
 
 
 # The links in the site footer
 footer_links:
+  - title: "LinkedIn"
+    url:   "https://cz.linkedin.com/in/jmelcr"
   - title: "GitHub"
     url:   "https://github.com/jmelcr"
   - title: "ResearchGate"
@@ -51,10 +51,8 @@ footer_links:
     url:   "https://scholar.google.cz/citations?hl=en&user=Nkoi1CoAAAAJ"
   - title: "Mendeley"
     url:   "https://www.mendeley.com/profiles/josef-melcr/"
-  - title: "LinkedIn"
-    url:   "https://cz.linkedin.com/in/jmelcr"
-  - title: "Twitter"
-    url:   "https://twitter.com/jmelcr"
+#  - title: "Twitter"
+#    url:   "https://twitter.com/jmelcr"
 #  - title: "RSS"
 #    url:   "/feed.xml"
 
@@ -64,7 +62,7 @@ authors:
   jmelcr:
     name: Josef Melcr
     website: https://jmelcr.github.io/
-    bio: Thinker, writer, scientist. Husband and dad. # Author info at bottom of post only shows if bio exists
+    bio: Thinker, technologist, scientist, team player. Husband and dad. # Author info at bottom of post only shows if bio exists
     avatar: "https://avatars2.githubusercontent.com/u/12782348?s=460&v=4" 
 
 

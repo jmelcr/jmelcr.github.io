@@ -10,7 +10,7 @@ my work with antennae in fluorescent proteins is (finally!) published!
 🥳
 
 Luckily, we have chosen a broad enough topic for 
-[my PhD thesis](https://jmelcr.github.io/blog/doc-thesis) 
+[my PhD thesis](/blog/doc-thesis) 
 so that we could fill it with other research, 
 that went a bit quicker.
 
@@ -33,4 +33,3 @@ This is shown in
 where we compare our results from MD simulations and polarization microscopy. 
 Bonus points to the [Martini coarse-grained model](http://cgmartini.nl/)
 that allowed us to do this!
-
