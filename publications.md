@@ -14,6 +14,7 @@ DOI: [10.1038/s41467-023-40947-x](https://doi.org/10.1038/s41467-023-40947-x).
 - Lateral membrane organization as target of an antimicrobial peptidomimetic compound. 
 Melcrová A., Maity S., Melcr J., et al. 
 Nature Communications, 2023.
+DOI: [10.1038/s41467-023-39726-5](https://doi.org/10.1038/s41467-023-39726-5). 
 
 - Membrane thickness, lipid phase and sterol type are determining factors in the permeability of membranes to small solutes. 
 J. Frallicciardi, J. Melcr, P. Siginou, S. J. Marrink and B. Poolman. 

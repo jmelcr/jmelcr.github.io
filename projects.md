@@ -12,14 +12,13 @@ Protyon is a startup company in the Netherlands
 that offers clinical decision support software 
 for hospital clinicians treating cancer patients, 
 [www.protyon.tech](http://www.protyon.tech).
-
 By leveraging computational molecular modeling 
 and the latest scientific advances, 
 we aim to bring personalized precision medicine 
 into clinical practice. 
-That’s why we started **Protyon**:
-to help clinicians make better treatment decisions
-and improve outcomes for their patients. 
+That’s why we started Protyon:
+*to help clinicians make better treatment decisions
+and improve outcomes for their patients.*
 🚀 And as it goes with startups,
 we are building our spaceship at the same time as we fly it. 
 *To boldly go where no man has gone before!*
@@ -33,7 +32,7 @@ we are building our spaceship at the same time as we fly it.
 
 
 
-# Finished projects
+# Past projects
 
 
 - **Antimicrobial peptides against drug-resistant bacterial strains.**

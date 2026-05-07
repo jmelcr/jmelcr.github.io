@@ -38,7 +38,7 @@ to all areas, from software and technology to team leadership and business.
 
 
 
-# Core strengths
+## Core strengths
 
 * Leadership of cross-functional projects and teams in science-, technology-, and operations-heavy environments  
 * Stakeholder alignment across technical, scientific, business, regulatory and clinical  
@@ -49,7 +49,7 @@ to all areas, from software and technology to team leadership and business.
 * Scientific talks, business pitches, storytelling with data and reporting to stakeholders
 
 
-# Skills
+## Skills
 
 * Leadership: C-level startup management, Professional Scrum Master, Scrum Product Owner, Agile Product Operating Model, project coordination, stakeholder communication, startup pitching, events networking, presentation, team coaching, mentoring.
 * Project management: OKR planning, agile, roadmaps, requirements, risk analysis, classical milestones and deliverables, budgets, RACI matrix. 
@@ -64,9 +64,9 @@ to all areas, from software and technology to team leadership and business.
 
 
 
-# Experience and Education
+## Experience and Education
 
-## Chief Product Technology Officer (CPTO) at Protyon | 2023 \- Present
+#### Chief Product Technology Officer (CPTO) at Protyon | 2023 \- Present
 
 Protyon is a startup company in the Netherlands that offers clinical decision support software for hospital clinicians and their cancer patients, [www.protyon.tech](http://www.protyon.tech).
 
@@ -79,7 +79,7 @@ Protyon is a startup company in the Netherlands that offers clinical decision su
 * Led clinical validation activities and ensured alignment with EU Medical Device Regulation and IT security requirements.  
 * Contributed to fundraising, grant acquisition, consortia proposal writing and planning resources.  
 
-### **Achievements**
+##### **Achievements**
 
 * Started the company, built its technology, its operating structure, and set the foundations of the business.
 * Shaped a product and a service that is well accepted by the clinical community, clinically validated and compliant with regulations.  
@@ -100,7 +100,7 @@ Protyon is a startup company in the Netherlands that offers clinical decision su
 
 
 
-## Founder & Chief Executive Officer (CEO) at Protyon | 2022 \- 2023
+#### Founder & Chief Executive Officer (CEO) at Protyon | 2022 \- 2023
 
 * Founded the company and led it through its first year, establishing the business and product vision, proof-of-principle solution, and initial funding and operations.  
 * Led investor-facing pitches and external communication with partners and stakeholders.  
@@ -108,7 +108,7 @@ Protyon is a startup company in the Netherlands that offers clinical decision su
 
 
 
-## Postdoctoral Researcher at University of Groningen (Computational Biophysics, group of S. J. Marrink) | Oct 2018 \- Dec 2021
+#### Postdoctoral Researcher at University of Groningen (Computational Biophysics, group of S. J. Marrink) | Oct 2018 \- Dec 2021
 
 * Led a scientific project using molecular dynamics simulations of cell membranes to support bioproduction in a consortium setting with academic and private partners (MeMBRane).  
 * Developed simulation pipelines for analysis of large simulation datasets and force-field topology manipulation to correlate with lab experiments.  
@@ -117,7 +117,7 @@ Protyon is a startup company in the Netherlands that offers clinical decision su
 -  Links: research group of [Siewert-Jan Marrink](http://cgmartini.nl/), [University of Groningen](https://www.rug.nl/). 
 
 
-## Ph.D. Researcher jointly at IOCB Prague, Max Planck Research School Dresden, and Charles University | Sep 2013 \- Nov 2018
+#### Ph.D. Researcher jointly at IOCB Prague, Max Planck Research School Dresden, and Charles University | Sep 2013 \- Nov 2018
 
 * Thesis: *Simulation of processes in cellular membranes.*  
 * Research: Developed analysis methodology for linear dichroism microscopy analysis, orchestrated large scale molecular simulations on HPC resources and developed scripts for their analysis, key research role in highly-collaborative open-science research project NMRlipids. Awarded several grants on computing time (Curie-HN France via PRACE, FZ Juelich Germany).   
@@ -126,14 +126,14 @@ Protyon is a startup company in the Netherlands that offers clinical decision su
 - Links: research group of [prof. Jungwirth](http://jungwirth.uochb.cas.cz/) 
 
 
-## Extra activities, Conferences and Talks
+#### Extra activities, Conferences and Talks
 
 * ASC pitch competition (March 2026)
   * Startup five minute pitch for Protyon's vision and potential of its companion diagnostics platform. 
 * Academic startup competition 2026  
   * Pitch: represented Protyon, one of the  selected Dutch academic startups  
 * Pitch training from best3minutes by David Beckett  
-* ESMO Congress 2025 | *Berlin, Germany (Nov 2025\)*  
+* ESMO Congress 2025  (Berlin, Germany, Nov 2025) 
   * Poster Presentation: Presented clinical trial results using Protyon's proprietary molecular modeling technology for personalized cancer treatment. The clinical trial is a success and the results from the Protyon technology attracted new client leads.   
 * Creative Destruction Lab program for startups  
   * Company presentation and networking: I wrote application to participate in this programme and represented Protyon in its events collecting several business leads.   
@@ -141,11 +141,11 @@ Protyon is a startup company in the Netherlands that offers clinical decision su
 * Masterclass on MDR and IVDR by Wouter van Beek  
 * Venture Lab Weekend event  
   * pitch competition and business ideation: Our team ideated on a business idea and won 2nd prize in pitch competition  
-* ICBL 2021 | *Utrecht, Netherlands (Oct 2021\)*  
+* ICBL 2021  (Utrecht, Netherlands Oct 2021)  
   * Contributed Talk: *International Conference on the Bioscience of Lipids.* Presented research on membrane permeability and lipid dynamics in yeast cells.  
-* Dutch Molecular Dynamics Day | *Amsterdam, Netherlands (May 2019\)*  
+* Dutch Molecular Dynamics Day (Amsterdam, Netherlands, May 2019)  
   * Invited Lecture: Discussed advanced simulation methods and electronic polarization in biomolecular systems.  
-* CECAM Workshop: Frontiers in Computational Biophysics | *Lugano, Switzerland (Jan 2018\)*  
+* CECAM Workshop: Frontiers in Computational Biophysics (Lugano, Switzerland, Jan 2018)  
   * Contributed Talk: Discussed conformational dynamics of complex lipid mixtures relevant to biology.
 
 
