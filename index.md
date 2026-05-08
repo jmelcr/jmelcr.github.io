@@ -59,12 +59,12 @@ in [my blog](/blog) here on GH pages!
 
 # Contact
 	
+Want to write me a message?
+Contact me on 
+[LinkedIn](https://linkedin.com/in/jmelcr)!
+
 ```
 ResearcherId: G-8562-2014
 ORCID: 0000-0003-4729-3990
 ```
-
-Want to write me a message?
-Contact me on 
-[LinkedIn](https://linkedin.com/in/jmelcr)!
 

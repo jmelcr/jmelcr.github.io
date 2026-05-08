@@ -61,6 +61,9 @@ to all areas, from software and technology to team leadership and business.
 
 
 
+<HR>
+
+
 
 
 
@@ -99,12 +102,18 @@ Protyon is a startup company in the Netherlands that offers clinical decision su
 * Represented company at international events and programmes (SLUSH, Creative Destruction Lab, Academic Startup Competition, ESMO)
 
 
+<HR>
+
+
 
 #### Founder & Chief Executive Officer (CEO) at Protyon | 2022 \- 2023
 
 * Founded the company and led it through its first year, establishing the business and product vision, proof-of-principle solution, and initial funding and operations.  
 * Led investor-facing pitches and external communication with partners and stakeholders.  
 * Helped shape the operating model and management structure for a startup working at the intersection of science, software, and regulated healthcare delivery.
+
+
+<HR>
 
 
 
@@ -117,6 +126,9 @@ Protyon is a startup company in the Netherlands that offers clinical decision su
 -  Links: research group of [Siewert-Jan Marrink](http://cgmartini.nl/), [University of Groningen](https://www.rug.nl/). 
 
 
+<HR>
+
+
 #### Ph.D. Researcher jointly at IOCB Prague, Max Planck Research School Dresden, and Charles University | Sep 2013 \- Nov 2018
 
 * Thesis: *Simulation of processes in cellular membranes.*  
@@ -124,6 +136,9 @@ Protyon is a startup company in the Netherlands that offers clinical decision su
 * Built a strong foundation in evidence-based decision making, critical thinking, structured analysis, and clear scientific communication.
 * Extra training: Parallel programming (F95) and utilization of parallel architectures such as GPUs, multi-core processors, and supercomputers.
 - Links: research group of [prof. Jungwirth](http://jungwirth.uochb.cas.cz/) 
+
+
+<HR>
 
 
 #### Extra activities, Conferences and Talks
@@ -147,6 +162,5 @@ Protyon is a startup company in the Netherlands that offers clinical decision su
   * Invited Lecture: Discussed advanced simulation methods and electronic polarization in biomolecular systems.  
 * CECAM Workshop: Frontiers in Computational Biophysics (Lugano, Switzerland, Jan 2018)  
   * Contributed Talk: Discussed conformational dynamics of complex lipid mixtures relevant to biology.
-
 
 

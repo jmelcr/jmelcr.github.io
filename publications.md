@@ -47,7 +47,7 @@ J. Chem. Inf. Model, 2021.
 DOI: [10.1021/acs.jcim.1c00261](https://doi.org/10.1021/acs.jcim.1c00261).
 
 
-- Martini 3.0: A General Purpose Force Field for Coarse-Grained Molecular Dynamics.
+- Martini 3.0: A General Purpose Force Field for Coarse-Grained Molecular Dynamics. 
 Paulo C. T. Souza, Riccardo Alessandri, Jonathan Barnoud, 
 Sebastian Thallmair, Ignacio Faustino, Fabian Grünewald, 
 Ilias Patmanidis, Haleh Abdizadeh, Bart M. H. Bruininks, 
@@ -58,6 +58,11 @@ Robert B. Best, Ilpo Vattulainen, Luca Monticelli, Xavier Periole,
 D. Peter Tieleman, Alex H. de Vries and Siewert J. Marrink,
 Nature Methods, 2021.
 DOI: [10.1038/s41592-021-01098-3](https://doi.org/10.1038/s41592-021-01098-3).
+
+- The Martini 3 lipidome: expanded and refined parameters improve lipid phase behavior. 
+Kasper B Pedersen, Helgi I Ingólfsson, Daniel P Ramirez-Echemendia, Luís Borges-Araújo, Mikkel D Andreasen, Charly Empereur-Mot, Josef Melcr, Tugba N Ozturk, WF Drew Bennett, Lisbeth R Kjølbye, Christopher Brasnett, Valentina Corradi, Hanif M Khan, Elio A Cino, Jackson Crowley, Hyuntae Kim, Balázs Fábián, Ana C Borges-Araújo, Giovanni M Pavan, Guillaume Launay, Fabio Lolicato, Tsjerk A Wassenaar, Manuel N Melo, Sebastian Thallmair, Timothy S Carpenter, Luca Monticelli, D Peter Tieleman, Birgit Schiøtt, Paulo CT Souza and Siewert J Marrink.
+ACS Central Science, 2025.
+DOI: [10.1021/acscentsci.5c00755](https://doi.org/10.1021/acscentsci.5c00755).
 
 - Quantitative Linear Dichroism Imaging of Molecular Processes in Living Cells Made Simple by Open Software Tools. 
 Alexey Bondar, Olga Rybakova, Josef Melcr, Jan Dohnálek, Petro Khoroshyy, 

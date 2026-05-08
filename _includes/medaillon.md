@@ -4,14 +4,14 @@ Josef Melcr is
 a passionate technologist and 
 inspiring team leader. 
 He loves applying science accross domains,
-from undertanding nature
+from understanding nature
 to developing software and businesses. 
 He occasionally makes some [digital artwork](https://jmelcr.tumblr.com/)
 and [poetry](https://medium.com/@jmelcr). 
 
 
 Find me on 
-[LinkedIn](https://cz.linkedin.com/in/jmelcr), 
+[LinkedIn](https://linkedin.com/in/jmelcr), 
 [Medium](https://medium.com/@jmelcr), 
 [GitHub](https://github.com/jmelcr),
 [GitLab](https://gitlab.com/jmelcr), 
