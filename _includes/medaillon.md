@@ -3,7 +3,7 @@
 Josef Melcr is 
 a passionate technologist and 
 inspiring team leader. 
-He loves applying science accross domains,
+He loves applying science across domains,
 from understanding nature
 to developing software and businesses. 
 He occasionally makes some [digital artwork](https://jmelcr.tumblr.com/)
